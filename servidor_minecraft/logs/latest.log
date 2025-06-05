@@ -151,3 +151,10 @@ com.google.gson.JsonParseException: there is no corresponding data file
 [05Jun2025 18:40:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Santasdas to Sofx0Loder]
 [05Jun2025 18:43:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 1000]
 [05Jun2025 18:45:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[05Jun2025 18:46:06.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Santasdas
+[05Jun2025 18:46:23.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Santasdas
+[05Jun2025 18:46:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[05Jun2025 18:55:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Created team [no_display_tag]]
+[05Jun2025 18:55:42.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Nametag visibility for team [no_display_tag] is now "Never"]
+[05Jun2025 18:56:19.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added Sofx0Loder to team [no_display_tag]]
+[05Jun2025 18:56:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added Santasdas to team [no_display_tag]]
