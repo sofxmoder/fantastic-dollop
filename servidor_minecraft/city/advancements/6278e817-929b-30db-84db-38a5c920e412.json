@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:taiga": "2025-06-07 20:23:43 +0000",
       "minecraft:windswept_hills": "2025-06-07 20:21:02 +0000",
+      "minecraft:beach": "2025-06-07 21:40:56 +0000",
       "minecraft:river": "2025-06-04 18:28:34 +0000",
       "minecraft:ocean": "2025-06-07 19:52:50 +0000"
     },
@@ -197,6 +198,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-07 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-07 21:39:21 +0000"
     },
     "done": true
   },
