@@ -170,3 +170,17 @@ com.google.gson.JsonParseException: there is no corresponding data file
 [07Jun2025 21:57:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
 [07Jun2025 21:58:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
 [07Jun2025 21:58:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
+[07Jun2025 22:07:32.406] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Jun2025 22:07:32.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Churrit0x_[/127.221.0.19:50401] logged in with entity id 3888 at (196.50383034330568, 74.0, -564.5001478930722)
+[07Jun2025 22:07:32.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_卍 joined the game
+[07Jun2025 22:07:45.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> unite a la call
+[07Jun2025 22:07:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> tonto
+[07Jun2025 22:08:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set !itzloikg ❀'s game mode to Survival Mode]
+[07Jun2025 22:09:48.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Churrit0x_卍]
+[07Jun2025 22:09:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set !itzloikg ❀'s game mode to Creative Mode]
+[07Jun2025 22:10:02.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_卍 was killed
+[07Jun2025 22:10:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Killed Churrit0x_卍]
+[07Jun2025 22:10:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Killed Churrit0x_卍]
+[07Jun2025 22:10:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Churrit0x_卍]
+[07Jun2025 22:10:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Flancito0_☣]
+[07Jun2025 22:12:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_卍 has made the advancement [Stone Age]
