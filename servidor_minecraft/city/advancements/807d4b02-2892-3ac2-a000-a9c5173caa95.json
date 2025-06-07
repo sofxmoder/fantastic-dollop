@@ -1164,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-07 21:27:49 +0000"
@@ -1176,9 +1182,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-06-07 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
     },
     "done": true
   },
@@ -1188,15 +1218,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-07 21:27:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-07 21:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:12:50 +0000"
     },
     "done": true
   },
