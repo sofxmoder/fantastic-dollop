@@ -155,3 +155,7 @@ com.google.gson.JsonParseException: there is no corresponding data file
 [07Jun2025 02:29:42.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
 [07Jun2025 02:30:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Flancito0_'s game mode to Creative Mode]
 [07Jun2025 02:31:30.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added Flancito0_ to team [no_display_tag]]
+[07Jun2025 02:38:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[07Jun2025 02:38:36.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[07Jun2025 02:39:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[07Jun2025 02:40:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
