@@ -3051,3 +3051,43 @@ com.google.gson.JsonParseException: there is no corresponding data file
 [07Jun2025 22:42:45.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mattupolis
 [07Jun2025 22:43:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
 [07Jun2025 22:43:04.085] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336184078
+[07Jun2025 22:43:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tas afk?
+[07Jun2025 22:43:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> santi
+[07Jun2025 22:43:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Churrit0x_> ESTOY JUGANDO QLIA
+[07Jun2025 22:45:11.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
+[07Jun2025 22:45:13.680] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336313672
+[07Jun2025 22:45:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
+[07Jun2025 22:45:31.366] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336331334
+[07Jun2025 22:46:08.172] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[07Jun2025 22:47:45.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mattupolis
+[07Jun2025 22:47:45.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mattupolis
+[07Jun2025 22:48:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
+[07Jun2025 22:48:38.414] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336518412
+[07Jun2025 22:50:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
+[07Jun2025 22:50:14.768] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336614747
+[07Jun2025 22:50:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was shot by itzloikg
+[07Jun2025 22:50:23.543] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336623533
+[07Jun2025 22:50:42.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
+[07Jun2025 22:50:44.496] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336644482
+[07Jun2025 22:51:41.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
+[07Jun2025 22:51:44.700] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336704700
+[07Jun2025 22:52:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
+[07Jun2025 22:52:11.791] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336731674
+[07Jun2025 22:52:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
+[07Jun2025 22:52:32.149] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336752121
+[07Jun2025 22:52:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[07Jun2025 22:52:37.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3sc64j5oik2]: started parsing
+[07Jun2025 22:52:37.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3sc64j5oik2]: Finished looking at arguments. Finalizing command.
+[07Jun2025 22:52:43.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lgl77seyb12y]: started parsing
+[07Jun2025 22:52:43.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lgl77seyb12y]: Finished looking at arguments. Finalizing command.
+[07Jun2025 22:52:44.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xukip3epxcql]: started parsing
+[07Jun2025 22:52:44.710] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xukip3epxcql]: Finished looking at arguments. Finalizing command.
+[07Jun2025 22:52:45.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mattupolis
+[07Jun2025 22:52:45.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mattupolis
+[07Jun2025 22:52:45.965] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lzi4riauyly5]: started parsing
+[07Jun2025 22:52:45.965] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lzi4riauyly5]: Finished looking at arguments. Finalizing command.
+[07Jun2025 22:52:49.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[07Jun2025 22:53:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Churrit0x_
+[07Jun2025 22:53:21.744] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336801641
+[07Jun2025 22:53:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
+[07Jun2025 22:53:26.347] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749336806301
