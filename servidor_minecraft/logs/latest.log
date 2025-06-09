@@ -1,57 +1,57 @@
-[07Jun2025 21:21:53.920] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07Jun2025 21:21:53.925] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[07Jun2025 21:21:54.464] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07Jun2025 21:21:54.549] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/fantastic-dollop/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[07Jun2025 21:21:54.947] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 21:21:54.948] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 21:21:54.950] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 21:21:54.953] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jun2025 21:21:55.256] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[07Jun2025 21:21:57.249] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jun2025 21:21:57.367] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[07Jun2025 21:21:57.367] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Jun2025 21:21:57.382] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jun2025 21:21:57.453] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[07Jun2025 21:21:57.551] [main/WARN] [mixin/]: Reference map 'tacz_fallout.refmap.json' for tacz_fallout.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jun2025 21:21:57.554] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jun2025 21:21:59.131] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[07Jun2025 21:22:08.314] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[07Jun2025 21:22:08.315] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[07Jun2025 21:22:08.317] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (2 ms)
-[07Jun2025 21:22:08.480] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[07Jun2025 21:22:08.522] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[07Jun2025 21:22:08.561] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[07Jun2025 21:22:08.561] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[07Jun2025 21:22:10.630] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
-[07Jun2025 21:22:10.636] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[07Jun2025 21:22:10.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[07Jun2025 21:22:11.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
-[07Jun2025 21:22:11.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[07Jun2025 21:22:12.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[07Jun2025 21:22:12.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jun2025 21:22:12.144] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@71a0011e]
-[07Jun2025 21:22:12.150] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[07Jun2025 21:22:12.233] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[07Jun2025 21:22:12.233] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[07Jun2025 21:22:12.233] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[07Jun2025 21:22:12.233] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[07Jun2025 21:22:12.233] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[07Jun2025 21:22:12.233] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[07Jun2025 21:22:12.234] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[07Jun2025 21:22:12.234] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[07Jun2025 21:22:12.234] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[07Jun2025 21:22:12.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[07Jun2025 21:22:12.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Starting version check at https://raw.githubusercontent.com/ElitexUltraStudios/Elite_X_Quality_Guns_1.20.1/refs/heads/master/update.json
-[07Jun2025 21:22:12.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Found status: AHEAD Current: 3.3 Target: null
-[07Jun2025 21:22:13.765] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Jun2025 21:22:14.738] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
-[07Jun2025 21:22:14.739] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
-[07Jun2025 21:22:31.805] [main/ERROR] [tacz/GunPackFinder]: Failed to load extension from ZIP /workspaces/fantastic-dollop/servidor_minecraft/tacz/mw19_guns_addon_v1.3.0.zip. Error: No gunpack.meta.json found
-[07Jun2025 21:22:33.988] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[07Jun2025 21:22:34.180] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:pbguns as it is missing following references: #pointblank:c14 (from taczplus-1.1.1-forge-1.20.1.jar)
-[07Jun2025 21:22:34.948] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[07Jun2025 21:22:35.440] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[07Jun2025 21:22:35.841] [main/ERROR] [tacz/AttachmentIndexLoader]: Failed to load data file doom:laser_attach
+[09Jun2025 18:27:19.909] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[09Jun2025 18:27:19.917] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[09Jun2025 18:27:20.346] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Jun2025 18:27:20.407] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/fantastic-dollop/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Jun2025 18:27:20.669] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 18:27:20.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 18:27:20.679] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 18:27:20.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 18:27:21.008] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[09Jun2025 18:27:22.513] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Jun2025 18:27:22.613] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[09Jun2025 18:27:22.613] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[09Jun2025 18:27:22.622] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jun2025 18:27:22.692] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[09Jun2025 18:27:22.779] [main/WARN] [mixin/]: Reference map 'tacz_fallout.refmap.json' for tacz_fallout.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jun2025 18:27:22.781] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jun2025 18:27:23.883] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[09Jun2025 18:27:31.063] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[09Jun2025 18:27:31.066] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[09Jun2025 18:27:31.066] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (3 ms)
+[09Jun2025 18:27:31.241] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[09Jun2025 18:27:31.294] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[09Jun2025 18:27:31.321] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[09Jun2025 18:27:31.321] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[09Jun2025 18:27:32.874] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[09Jun2025 18:27:32.878] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[09Jun2025 18:27:32.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[09Jun2025 18:27:33.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[09Jun2025 18:27:33.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[09Jun2025 18:27:33.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[09Jun2025 18:27:33.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Jun2025 18:27:33.636] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@382dc042]
+[09Jun2025 18:27:33.647] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[09Jun2025 18:27:33.718] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[09Jun2025 18:27:33.719] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[09Jun2025 18:27:33.719] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[09Jun2025 18:27:33.719] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[09Jun2025 18:27:33.719] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[09Jun2025 18:27:33.719] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[09Jun2025 18:27:33.720] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[09Jun2025 18:27:33.720] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[09Jun2025 18:27:33.720] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[09Jun2025 18:27:33.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[09Jun2025 18:27:33.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Starting version check at https://raw.githubusercontent.com/ElitexUltraStudios/Elite_X_Quality_Guns_1.20.1/refs/heads/master/update.json
+[09Jun2025 18:27:33.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [elitex] Found status: AHEAD Current: 3.3 Target: null
+[09Jun2025 18:27:34.721] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Jun2025 18:27:35.296] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
+[09Jun2025 18:27:35.296] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/fantastic-dollop/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
+[09Jun2025 18:27:47.819] [main/ERROR] [tacz/GunPackFinder]: Failed to load extension from ZIP /workspaces/fantastic-dollop/servidor_minecraft/tacz/mw19_guns_addon_v1.3.0.zip. Error: No gunpack.meta.json found
+[09Jun2025 18:27:49.399] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[09Jun2025 18:27:49.560] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:pbguns as it is missing following references: #pointblank:c14 (from taczplus-1.1.1-forge-1.20.1.jar)
+[09Jun2025 18:27:50.202] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[09Jun2025 18:27:50.337] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[09Jun2025 18:27:50.553] [main/ERROR] [tacz/AttachmentIndexLoader]: Failed to load data file doom:laser_attach
 com.google.gson.JsonParseException: there is no corresponding data file
 	at com.tacz.guns.resource.serialize.CommonAttachmentIndexSerializer.deserialize(CommonAttachmentIndexSerializer.java:19) ~[tacz-1.20.1-1.1.5-all.jar%23143!/:1.1.5]
 	at com.tacz.guns.resource.serialize.CommonAttachmentIndexSerializer.deserialize(CommonAttachmentIndexSerializer.java:12) ~[tacz-1.20.1-1.1.5-all.jar%23143!/:1.1.5]
@@ -85,7 +85,7 @@ com.google.gson.JsonParseException: there is no corresponding data file
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 21:22:35.844] [main/ERROR] [tacz/AttachmentIndexLoader]: Failed to load data file doom:hmsight
+[09Jun2025 18:27:50.555] [main/ERROR] [tacz/AttachmentIndexLoader]: Failed to load data file doom:hmsight
 com.google.gson.JsonParseException: there is no corresponding data file
 	at com.tacz.guns.resource.serialize.CommonAttachmentIndexSerializer.deserialize(CommonAttachmentIndexSerializer.java:19) ~[tacz-1.20.1-1.1.5-all.jar%23143!/:1.1.5]
 	at com.tacz.guns.resource.serialize.CommonAttachmentIndexSerializer.deserialize(CommonAttachmentIndexSerializer.java:12) ~[tacz-1.20.1-1.1.5-all.jar%23143!/:1.1.5]
@@ -119,252 +119,42 @@ com.google.gson.JsonParseException: there is no corresponding data file
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 21:22:36.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[07Jun2025 21:22:36.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jun2025 21:22:36.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jun2025 21:22:36.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jun2025 21:22:36.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jun2025 21:22:36.779] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jun2025 21:22:36.911] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jun2025 21:22:36.911] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jun2025 21:22:36.911] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jun2025 21:22:36.912] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jun2025 21:22:36.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "city"
-[07Jun2025 21:22:43.075] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[07Jun2025 21:22:43.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jun2025 21:22:43.316] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 240 ms
-[07Jun2025 21:22:43.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.388s)! For help, type "help"
-[07Jun2025 21:22:43.464] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jun2025 21:22:43.512] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[07Jun2025 21:22:43.513] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
-[07Jun2025 21:22:43.515] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[07Jun2025 21:22:48.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.162.229.176:43111] logged in with entity id 3 at (271.35678699109013, 148.0, -539.6569484563122)
-[07Jun2025 21:22:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ☠ Sofx0Loder ☠ joined the game
-[07Jun2025 21:23:12.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:43763] logged in with entity id 396 at (300.5, 150.0, -600.5)
-[07Jun2025 21:23:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_☣ joined the game
-[07Jun2025 21:23:20.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.155.232.48:46105] logged in with entity id 424 at (268.115011912135, 146.0, -548.3000000119209)
-[07Jun2025 21:23:20.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: !itzloikg ❀ joined the game
-[07Jun2025 21:23:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set Flancito0_☣'s game mode to Creative Mode]
-[07Jun2025 21:25:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> 2 de la categoria pistola, 1 de fusiles, 1 de francotirador
-[07Jun2025 21:25:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> y cantidad q quieras de una clase de granada
-[07Jun2025 21:27:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_☣ has reached the goal [Sky's the Limit]
-[07Jun2025 21:45:11.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:45:14.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:45:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:45:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:48:02.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <!itzloikg ❀> la mia parece una casa moderna de vegetta777
-[07Jun2025 21:48:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <!itzloikg ❀> m dpaja
-[07Jun2025 21:48:20.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <!itzloikg ❀> mi casa tio
-[07Jun2025 21:49:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:49:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:49:17.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:49:18.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:49:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:49:39.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Gamerule doMobSpawning is now set to: false]
-[07Jun2025 21:50:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:52:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:52:08.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:57:10.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:57:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:57:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:57:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 21:58:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 21:58:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:07:32.406] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[07Jun2025 22:07:32.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Churrit0x_[/127.221.0.19:50401] logged in with entity id 3888 at (196.50383034330568, 74.0, -564.5001478930722)
-[07Jun2025 22:07:32.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_卍 joined the game
-[07Jun2025 22:07:45.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> unite a la call
-[07Jun2025 22:07:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> tonto
-[07Jun2025 22:08:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set !itzloikg ❀'s game mode to Survival Mode]
-[07Jun2025 22:09:48.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Churrit0x_卍]
-[07Jun2025 22:09:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set !itzloikg ❀'s game mode to Creative Mode]
-[07Jun2025 22:10:02.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_卍 was killed
-[07Jun2025 22:10:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Killed Churrit0x_卍]
-[07Jun2025 22:10:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Killed Churrit0x_卍]
-[07Jun2025 22:10:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Churrit0x_卍]
-[07Jun2025 22:10:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Flancito0_☣]
-[07Jun2025 22:12:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_卍 has made the advancement [Stone Age]
-[07Jun2025 22:14:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:15:10.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:15:20.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:15:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:15:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:15:51.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> 2 de la categoria pistola, 1 de fusiles, 1 de francotirador
-[07Jun2025 22:15:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <☠ Sofx0Loder ☠> y cantidad q quieras de una clase de granada
-[07Jun2025 22:16:06.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:17:59.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported Flancito0_☣ to ☠ Sofx0Loder ☠]
-[07Jun2025 22:18:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported Flancito0_☣ to ☠ Sofx0Loder ☠]
-[07Jun2025 22:19:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported Flancito0_☣ to ☠ Sofx0Loder ☠]
-[07Jun2025 22:19:48.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set Flancito0_☣'s game mode to Survival Mode]
-[07Jun2025 22:22:05.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set [Muertes] for 4 entities to 1]
-[07Jun2025 22:22:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set [Muertes] for 4 entities to 0]
-[07Jun2025 22:24:18.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:24:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:24:50.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:25:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:25:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:25:37.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 22:25:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:25:39.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Spectator Mode]
-[07Jun2025 22:25:42.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Adventure Mode]
-[07Jun2025 22:25:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:26:37.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Adventure Mode]
-[07Jun2025 22:26:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:26:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:27:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_☣ was shot by ☠ Sofx0Loder ☠
-[07Jun2025 22:28:09.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <!itzloikg ❀> leo
-[07Jun2025 22:28:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <!itzloikg ❀> veni
-[07Jun2025 22:28:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to !itzloikg ❀]
-[07Jun2025 22:28:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ☠ Sofx0Loder ☠ was shot by Flancito0_☣
-[07Jun2025 22:28:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Flancito0_☣]
-[07Jun2025 22:28:56.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ☠ Sofx0Loder ☠ was shot by Flancito0_☣
-[07Jun2025 22:28:58.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Teleported ☠ Sofx0Loder ☠ to Flancito0_☣]
-[07Jun2025 22:29:03.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:29:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set spawn point to 263, 150, -586 [0.0] in minecraft:overworld for ☠ Sofx0Loder ☠]
-[07Jun2025 22:29:16.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:29:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Creative Mode]
-[07Jun2025 22:29:52.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set own game mode to Survival Mode]
-[07Jun2025 22:30:00.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Set Churrit0x_卍's game mode to Survival Mode]
-[07Jun2025 22:30:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [☠ Sofx0Loder ☠: Added Sofx0Loder to team [no_display_tag]]
-[07Jun2025 22:30:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added Churrit0x_ to team [no_display_tag]]
-[07Jun2025 22:30:17.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added Flancito0_ to team [no_display_tag]]
-[07Jun2025 22:30:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added i to team [no_display_tag]]
-[07Jun2025 22:30:25.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added itzloikg to team [no_display_tag]]
-[07Jun2025 22:31:29.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Churrit0x_'s game mode to Creative Mode]
-[07Jun2025 22:32:20.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 22:32:48.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set spawn point to 264, 148, -541 [0.0] in minecraft:overworld for itzloikg]
-[07Jun2025 22:32:53.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 22:32:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 22:33:01.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set spawn point to 300, 149, -549 [0.0] in minecraft:overworld for Churrit0x_]
-[07Jun2025 22:33:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 22:33:06.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 22:33:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set spawn point to 303, 151, -589 [0.0] in minecraft:overworld for Flancito0_]
-[07Jun2025 22:33:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 22:33:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 22:33:28.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
-[07Jun2025 22:33:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 22:33:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set [Muertes] for 4 entities to 0]
-[07Jun2025 22:33:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Churrit0x_'s game mode to Survival Mode]
-[07Jun2025 22:34:38.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set itzloikg's game mode to Survival Mode]
-[07Jun2025 22:35:04.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Gave 64 [Steak] to itzloikg]
-[07Jun2025 22:35:05.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Gave 64 [Steak] to itzloikg]
-[07Jun2025 22:35:30.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 18000]
-[07Jun2025 22:35:36.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 14000]
-[07Jun2025 22:35:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 13000]
-[07Jun2025 22:35:55.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> el ivnentario
-[07Jun2025 22:35:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> con la e
-[07Jun2025 22:36:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> q se gira tmb
-[07Jun2025 22:36:05.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> com ose csamasa
-[07Jun2025 22:38:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
-[07Jun2025 22:41:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> santi
-[07Jun2025 22:41:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> as?
-[07Jun2025 22:41:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> as
-[07Jun2025 22:41:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> tas
-[07Jun2025 22:41:23.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Churrit0x_> estoy en llamada con mi abuela
-[07Jun2025 22:43:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 22:43:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tas afk?
-[07Jun2025 22:43:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> santi
-[07Jun2025 22:43:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Churrit0x_> ESTOY JUGANDO QLIA
-[07Jun2025 22:45:11.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 22:45:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 22:48:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
-[07Jun2025 22:50:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
-[07Jun2025 22:50:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was shot by itzloikg
-[07Jun2025 22:50:42.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 22:51:41.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 22:52:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 22:52:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 22:52:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 22:52:49.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
-[07Jun2025 22:53:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Churrit0x_
-[07Jun2025 22:53:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 22:54:49.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> :'v
-[07Jun2025 22:54:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> no veo a nadei
-[07Jun2025 22:55:30.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> fran lpm
-[07Jun2025 22:55:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 22:55:45.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mkago
-[07Jun2025 22:55:46.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mklago
-[07Jun2025 22:55:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> podrida
-[07Jun2025 22:57:38.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by itzloikg
-[07Jun2025 22:57:53.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 22:57:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> u,n,u
-[07Jun2025 22:58:45.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by itzloikg
-[07Jun2025 22:58:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> tkoptmoawtmoamowtomatmota
-[07Jun2025 22:58:49.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> otmtmomoatta
-[07Jun2025 22:58:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> otmoamot
-[07Jun2025 22:58:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> kawkfw
-[07Jun2025 22:58:52.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
-[07Jun2025 22:58:52.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
-[07Jun2025 22:58:59.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.155.232.48:59029] logged in with entity id 4975 at (267.16012831902765, 151.5, -551.2966145501767)
-[07Jun2025 22:58:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
-[07Jun2025 22:59:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> deja la llamada y veni
-[07Jun2025 22:59:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> missclick
-[07Jun2025 22:59:16.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> yavoi
-[07Jun2025 22:59:29.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 22:59:32.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mcago
-[07Jun2025 22:59:34.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> en tu ma dre
-[07Jun2025 22:59:48.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 22:59:54.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> bullying
-[07Jun2025 23:00:09.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 23:00:10.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 23:00:14.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 23:00:33.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> q sacale fran=
-[07Jun2025 23:00:34.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ?
-[07Jun2025 23:00:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 23:00:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 23:00:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
-[07Jun2025 23:00:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> nabueno
-[07Jun2025 23:00:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
-[07Jun2025 23:00:56.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 23:01:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
-[07Jun2025 23:01:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 23:01:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ASAASASAA
-[07Jun2025 23:01:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> 12 m uertes
-[07Jun2025 23:01:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> JDHFJD
-[07Jun2025 23:01:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> putamadre
-[07Jun2025 23:01:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> tenia en la mira
-[07Jun2025 23:01:53.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> m pegaste antes
-[07Jun2025 23:01:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> xq tenia lapistola
-[07Jun2025 23:01:59.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> :''vv
-[07Jun2025 23:02:20.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 23:02:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> naya
-[07Jun2025 23:02:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> m rinod
-[07Jun2025 23:02:29.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> dale bobi
-[07Jun2025 23:02:31.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni
-[07Jun2025 23:02:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> yavoyyo
-[07Jun2025 23:02:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 23:03:31.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 23:03:39.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg fell from a high place
-[07Jun2025 23:03:43.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> bullyng a mai
-[07Jun2025 23:03:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 23:03:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> preifeor suicidarme
-[07Jun2025 23:03:56.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1 muerte el frna nomas
-[07Jun2025 23:03:58.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> jacker
-[07Jun2025 23:04:00.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> chiter
-[07Jun2025 23:04:06.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> soyrepro
-[07Jun2025 23:04:12.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> regay
-[07Jun2025 23:04:13.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> *
-[07Jun2025 23:04:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> sera el santi
-[07Jun2025 23:04:38.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> como corre
-[07Jun2025 23:04:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
-[07Jun2025 23:04:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 23:05:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> T_T
-[07Jun2025 23:06:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 23:06:57.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 23:07:00.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ fell from a high place
-[07Jun2025 23:07:21.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Flancito0_
-[07Jun2025 23:07:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was shot by itzloikg
-[07Jun2025 23:07:44.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Sofx0Loder
-[07Jun2025 23:08:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Churrit0x_
-[07Jun2025 23:08:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by itzloikg
-[07Jun2025 23:09:35.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by itzloikg
-[07Jun2025 23:09:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 23:10:14.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Flancito0_
-[07Jun2025 23:11:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by itzloikg
-[07Jun2025 23:11:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by itzloikg
-[07Jun2025 23:12:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was shot by itzloikg
-[07Jun2025 23:12:09.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
-[07Jun2025 23:12:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
-[07Jun2025 23:12:27.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
-[07Jun2025 23:12:29.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by itzloikg using [JRX Viper 2011]
-[07Jun2025 23:13:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Churrit0x_
+[09Jun2025 18:27:51.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Jun2025 18:27:51.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Jun2025 18:27:51.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Jun2025 18:27:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Jun2025 18:27:51.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Jun2025 18:27:51.157] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Jun2025 18:27:51.279] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Jun2025 18:27:51.279] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Jun2025 18:27:51.280] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Jun2025 18:27:51.280] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Jun2025 18:27:51.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "city"
+[09Jun2025 18:27:55.233] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[09Jun2025 18:27:55.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Jun2025 18:27:55.400] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 166 ms
+[09Jun2025 18:27:55.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.104s)! For help, type "help"
+[09Jun2025 18:27:55.857] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Jun2025 18:27:56.990] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[09Jun2025 18:27:56.991] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[09Jun2025 18:27:56.991] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[09Jun2025 18:29:06.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.162.229.176:38881] logged in with entity id 1 at (272.1284358683915, 150.0, -596.2689020544218)
+[09Jun2025 18:29:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[09Jun2025 18:29:41.804] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73914a70[id=<null>,name=Flancito0_,properties={},legacy=false] (/127.98.20.34:34471) lost connection: Disconnected
+[09Jun2025 18:29:51.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:58603] logged in with entity id 293 at (303.5, 150.0, -588.5)
+[09Jun2025 18:29:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[09Jun2025 18:30:49.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[09Jun2025 18:30:49.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[09Jun2025 18:30:49.405] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 18:32:54.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:47127] logged in with entity id 322 at (303.5, 150.0, -588.5)
+[09Jun2025 18:32:54.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[09Jun2025 18:33:30.187] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Jun2025 18:33:30.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Churrit0x_[/127.221.0.19:49277] logged in with entity id 331 at (296.8004348816515, 149.0, -547.3664318870532)
+[09Jun2025 18:33:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ joined the game
+[09Jun2025 18:33:52.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[09Jun2025 18:33:52.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[09Jun2025 18:33:52.454] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 18:34:16.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Churrit0x_
+[09Jun2025 18:35:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
+[09Jun2025 18:36:52.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Churrit0x_ was shot by Sofx0Loder
+[09Jun2025 18:37:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Churrit0x_
