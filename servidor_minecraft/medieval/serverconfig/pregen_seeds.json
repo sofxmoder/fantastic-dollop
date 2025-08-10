@@ -1,30 +1,30 @@
 {
 	"level_seeds": [
 		{
-			"dim": "minecraft:the_nether",
-			"seed": -5113910828868635749
-		},
-		{
 			"dim": "minecraft:the_end",
-			"seed": -5113910828868635749
+			"seed": -8632211098746706137
 		},
 		{
 			"dim": "minecraft:overworld",
-			"seed": -5113910828868635749
+			"seed": -8632211098746706137
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -8632211098746706137
 		}
 	],
 	"structure_seeds": [
 		{
-			"dim": "minecraft:the_nether",
-			"seed": -5113910828868635749
-		},
-		{
 			"dim": "minecraft:the_end",
-			"seed": -5113910828868635749
+			"seed": -8632211098746706137
 		},
 		{
 			"dim": "minecraft:overworld",
-			"seed": -5113910828868635749
+			"seed": -8632211098746706137
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -8632211098746706137
 		}
 	]
 }
