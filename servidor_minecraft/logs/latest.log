@@ -1900,3 +1900,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 00:38:17.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> cambiame el spawn
 [10Aug2025 00:38:24.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the world spawn point to 153, 110, -252 [0.0]]
 [10Aug2025 00:38:28.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set spawn point to 153, 110, -251 [0.0] in minecraft:overworld for 8 players]
+[10Aug2025 00:38:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 8 entities to Sofx0Loder]
+[10Aug2025 00:39:17.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Matthorox
+[10Aug2025 00:39:17.717] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:39:18.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=156, y=113, z=-249}
+[10Aug2025 00:39:20.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zuhazana_fr has reached the goal [Here They Come]
+[10Aug2025 00:39:22.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Matthorox
+[10Aug2025 00:39:22.024] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:39:27.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Removed 24 item(s) from 8 players]
+[10Aug2025 00:39:36.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Removed 1 item(s) from 8 players]
+[10Aug2025 00:39:41.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 8 entities to Sofx0Loder]
+[10Aug2025 00:40:18.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Flancito0_
+[10Aug2025 00:40:18.271] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:40:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matthorox> cambur tu no nos tiene que invitar?
+[10Aug2025 00:40:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Flancito0_
+[10Aug2025 00:40:53.159] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:41:13.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Removed 4 item(s) from 8 players]
+[10Aug2025 00:41:21.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[10Aug2025 00:41:21.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matthorox> la contraseña me pide
+[10Aug2025 00:41:22.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Aug2025 00:41:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was slain by KarmaTv
+[10Aug2025 00:41:39.561] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 00:43:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by zuhazana_fr
+[10Aug2025 00:43:35.618] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:44:04.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zuhazana_fr was slain by cambursote
+[10Aug2025 00:44:04.206] [Server thread/INFO] [tombstone/]: The player zuhazana_fr has successfully been saved
+[10Aug2025 00:44:20.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 8 entities to Sofx0Loder]
+[10Aug2025 00:44:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyexXM was slain by cambursote
+[10Aug2025 00:44:47.613] [Server thread/INFO] [tombstone/]: The player ReyexXM has successfully been saved
+[10Aug2025 00:45:46.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was slain by Flancito0_
+[10Aug2025 00:45:46.358] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 00:45:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> reyex
+[10Aug2025 00:45:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> quien eres
+[10Aug2025 00:45:58.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KarmaTv was slain by cambursote
+[10Aug2025 00:45:58.159] [Server thread/INFO] [tombstone/]: The player KarmaTv has successfully been saved
+[10Aug2025 00:46:00.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Matthorox
+[10Aug2025 00:46:00.678] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[10Aug2025 00:46:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cambursote> leo
+[10Aug2025 00:46:15.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported ReyexXM to Sofx0Loder]
+[10Aug2025 00:46:15.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cambursote> leo
+[10Aug2025 00:46:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cambursote> hazme tp
+[10Aug2025 00:46:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cambursote> te voy a decir algo
+[10Aug2025 00:47:19.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by KarmaTv
+[10Aug2025 00:47:19.091] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:48:39.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was slain by cambursote
+[10Aug2025 00:48:39.610] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 00:48:42.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf has reached the goal [Here They Come]
+[10Aug2025 00:48:51.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KarmaTv lost connection: Disconnected
+[10Aug2025 00:48:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KarmaTv left the game
+[10Aug2025 00:48:51.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KarmaTv

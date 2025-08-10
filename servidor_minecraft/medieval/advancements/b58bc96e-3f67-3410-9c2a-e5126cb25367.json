@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 00:37:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-08-10 00:30:47 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-08-10 00:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-10 00:36:50 +0000"
     },
     "done": true
   },
