@@ -404,9 +404,63 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/cestus": {
+  "supplementaries:recipes/flower_box": {
     "criteria": {
-      "has_wool": "2025-08-10 02:25:21 +0000"
+      "has_dirt": "2025-08-10 02:21:15 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-08-10 02:21:15 +0000"
+    },
+    "done": false
+  },
+  "dungeons_and_combat:the_oni_slayer": {
+    "criteria": {
+      "the_oni_slayer_0": "2025-08-10 02:23:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-08-10 02:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-10 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_boots": "2025-08-10 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_boots": "2025-08-10 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-10 02:24:04 +0000"
     },
     "done": true
   },
@@ -422,15 +476,39 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/curtains": {
+  "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
-      "has_wood": "2025-08-10 02:25:21 +0000"
+      "has_item": "2025-08-10 02:25:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_lots_of_items": "2025-08-10 02:23:36 +0000"
+      "has_mutton": "2025-08-10 02:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-10 02:25:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 02:25:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-08-10 02:25:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-08-10 02:25:21 +0000"
     },
     "done": true
   },
@@ -443,30 +521,6 @@
   "toughasnails:recipes/combat/wool_helmet": {
     "criteria": {
       "has_wool": "2025-08-10 02:25:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-08-10 02:23:36 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:the_oni_slayer": {
-    "criteria": {
-      "the_oni_slayer_0": "2025-08-10 02:23:20 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:origin": {
-    "criteria": {
-      "origin_0": "2025-08-10 02:23:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-08-10 02:24:04 +0000"
     },
     "done": true
   },
@@ -494,30 +548,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-08-10 02:23:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2025-08-10 02:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_boots": "2025-08-10 02:23:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2025-08-10 02:21:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-10 02:25:21 +0000"
@@ -527,12 +557,6 @@
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-08-10 02:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-08-10 02:25:40 +0000"
     },
     "done": true
   },
@@ -548,41 +572,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-08-10 02:25:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-10 02:25:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_mutton": "2025-08-10 02:25:20 +0000"
+      "consumed_item": "2025-08-10 02:25:40 +0000"
     },
     "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-10 02:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_chainmail_boots": "2025-08-10 02:23:36 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/dirts": {
-    "criteria": {
-      "dirt": "2025-08-10 02:21:15 +0000"
-    },
-    "done": false
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {

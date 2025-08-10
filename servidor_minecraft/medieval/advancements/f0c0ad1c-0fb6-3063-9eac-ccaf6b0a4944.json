@@ -101,6 +101,19 @@
     },
     "done": true
   },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-08-10 01:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-08-10 02:38:22 +0000",
+      "minecraft:plains": "2025-08-10 01:48:04 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-08-10 01:48:53 +0000"
@@ -224,12 +237,6 @@
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2025-08-10 01:48:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-08-10 01:48:04 +0000"
     },
     "done": true
   },
@@ -358,12 +365,6 @@
       "in_water": "2025-08-10 01:48:53 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-08-10 01:48:04 +0000"
-    },
-    "done": false
   },
   "smallships:recipes/transportation/bamboo_drakkar": {
     "criteria": {
