@@ -1,7 +1,19 @@
 {
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_soap": "2025-08-10 01:13:55 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-08-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap_block": {
+    "criteria": {
+      "has_soap": "2025-08-10 01:13:55 +0000"
     },
     "done": true
   },
@@ -35,6 +47,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_soap": "2025-08-10 01:13:55 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-08-10 00:31:10 +0000"
@@ -56,6 +74,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-08-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_soap": "2025-08-10 01:13:55 +0000"
     },
     "done": true
   },
@@ -101,9 +125,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-10 01:14:14 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-08-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/blackboard": {
+    "criteria": {
+      "has_soap": "2025-08-10 01:13:55 +0000"
     },
     "done": true
   },
@@ -119,6 +155,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-08-10 01:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2025-08-10 00:31:10 +0000",
@@ -129,6 +171,12 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-08-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_soap": "2025-08-10 01:13:55 +0000"
     },
     "done": true
   },

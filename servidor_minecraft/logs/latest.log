@@ -2065,3 +2065,120 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 01:08:09.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> MIS BURBUJAS LEO
 [10Aug2025 01:09:02.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> DAME
 [10Aug2025 01:09:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> PERO POQ NO ME DEJA
+[10Aug2025 01:09:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Adventure Mode]
+[10Aug2025 01:09:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set zuhazana_fr's game mode to Adventure Mode]
+[10Aug2025 01:09:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Flancito0_'s game mode to Adventure Mode]
+[10Aug2025 01:09:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set cambursote's game mode to Adventure Mode]
+[10Aug2025 01:09:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Zephyzf's game mode to Adventure Mode]
+[10Aug2025 01:09:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Proder's game mode to Adventure Mode]
+[10Aug2025 01:09:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set ReyexXM's game mode to Adventure Mode]
+[10Aug2025 01:09:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Matthorox's game mode to Adventure Mode]
+[10Aug2025 01:09:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Aug2025 01:09:55.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zuhazana_fr was blown up by Flancito0_
+[10Aug2025 01:09:55.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zuhazana_fr has made the advancement [Your First Grave]
+[10Aug2025 01:09:55.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was blown up by Flancito0_
+[10Aug2025 01:09:55.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was blown up by Flancito0_
+[10Aug2025 01:09:55.493] [Server thread/INFO] [tombstone/]: The player zuhazana_fr has successfully been saved
+[10Aug2025 01:09:55.493] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 01:09:55.494] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 01:09:56.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was blown up by Flancito0_
+[10Aug2025 01:09:56.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Proder was blown up by Flancito0_
+[10Aug2025 01:09:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyexXM was blown up by Flancito0_
+[10Aug2025 01:09:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was blown up by Flancito0_
+[10Aug2025 01:09:56.554] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 01:09:56.554] [Server thread/INFO] [tombstone/]: The player Proder has successfully been saved
+[10Aug2025 01:09:56.554] [Server thread/INFO] [tombstone/]: The player ReyexXM has successfully been saved
+[10Aug2025 01:09:56.554] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[10Aug2025 01:10:01.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> MIS BURBUJAAAS
+[10Aug2025 01:10:11.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[10Aug2025 01:10:14.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 9.458386928465956,-3.06626062492424,-1.1797738567386205
+[10Aug2025 01:10:18.252] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[10Aug2025 01:10:18.253] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[10Aug2025 01:10:18.259] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Aug2025 01:10:18.259] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[10Aug2025 01:10:18.259] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Aug2025 01:10:18.259] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Aug2025 01:10:18.259] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Aug2025 01:10:26.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7c0e89d0-b350-3314-926b-153fa7dd5244 timed out
+[10Aug2025 01:10:26.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Matthorox
+[10Aug2025 01:10:26.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Matthorox
+[10Aug2025 01:10:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 8 entities to Sofx0Loder]
+[10Aug2025 01:10:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> EL LAG
+[10Aug2025 01:10:31.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ariaxer[/127.194.72.128:33359] logged in with entity id 4322 at (153.5, 110.0, -251.5)
+[10Aug2025 01:10:31.809] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ariaxer
+[10Aug2025 01:10:31.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer joined the game
+[10Aug2025 01:10:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer has made the advancement [Nether's Exoticism]
+[10Aug2025 01:10:32.052] [Server thread/INFO] [Jade/]: Syncing config to Ariaxer (aa89ca5b-17c2-3b17-9aa5-c9f7c400d74e)
+[10Aug2025 01:10:32.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer has made the advancement [Dungeons And Combat]
+[10Aug2025 01:10:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer has made the advancement [Ice and Fire]
+[10Aug2025 01:10:33.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7519ms or 150 ticks behind
+[10Aug2025 01:10:34.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ariaxer lost connection: You logged in from another location
+[10Aug2025 01:10:34.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer left the game
+[10Aug2025 01:10:34.861] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ariaxer
+[10Aug2025 01:10:34.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ariaxer[/127.194.72.128:51199] logged in with entity id 4325 at (153.5, 110.0, -251.5)
+[10Aug2025 01:10:34.881] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ariaxer
+[10Aug2025 01:10:34.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer joined the game
+[10Aug2025 01:10:35.131] [Server thread/INFO] [Jade/]: Syncing config to Ariaxer (aa89ca5b-17c2-3b17-9aa5-c9f7c400d74e)
+[10Aug2025 01:10:35.133] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Aug2025 01:10:52.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c0e89d0-b350-3314-926b-153fa7dd5244
+[10Aug2025 01:10:53.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c0e89d0-b350-3314-926b-153fa7dd5244
+[10Aug2025 01:10:53.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Matthorox (7c0e89d0-b350-3314-926b-153fa7dd5244) successfully connected to voice chat
+[10Aug2025 01:11:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zephyzf: Set own game mode to Creative Mode]
+[10Aug2025 01:11:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> arigameplays
+[10Aug2025 01:11:17.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Made Zephyzf no longer a server operator]
+[10Aug2025 01:11:40.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> Proder
+[10Aug2025 01:11:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> estas?
+[10Aug2025 01:11:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> quien pinga sos proder
+[10Aug2025 01:11:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Proder to Sofx0Loder]
+[10Aug2025 01:11:59.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me escxuhas?
+[10Aug2025 01:12:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Proder> no
+[10Aug2025 01:12:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> apreta v y congiruA
+[10Aug2025 01:12:12.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> configuta
+[10Aug2025 01:12:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Proder> ya
+[10Aug2025 01:12:17.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Proder> ahora si
+[10Aug2025 01:13:40.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Proder to Sofx0Loder]
+[10Aug2025 01:14:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyexXM has made the advancement [Tide Pod Challenge]
+[10Aug2025 01:14:19.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Removed 95 item(s) from 9 players]
+[10Aug2025 01:14:38.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> no
+[10Aug2025 01:14:45.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> ysi
+[10Aug2025 01:14:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Made Zephyzf a server operator]
+[10Aug2025 01:15:04.804] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[10Aug2025 01:15:04.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pancho670[/127.254.202.192:35825] logged in with entity id 4475 at (153.5, 110.0, -251.5)
+[10Aug2025 01:15:04.825] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pancho670
+[10Aug2025 01:15:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pancho670 joined the game
+[10Aug2025 01:15:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pancho670 has made the advancement [Nether's Exoticism]
+[10Aug2025 01:15:05.140] [Server thread/INFO] [Jade/]: Syncing config to pancho670 (69626660-b939-36d7-aa50-9864c617da37)
+[10Aug2025 01:15:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pancho670 has made the advancement [Dungeons And Combat]
+[10Aug2025 01:15:05.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pancho670 has made the advancement [Ice and Fire]
+[10Aug2025 01:15:06.306] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pancho670 (18)
+[10Aug2025 01:15:06.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pancho670
+[10Aug2025 01:15:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Flancito0_
+[10Aug2025 01:15:11.065] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 01:15:19.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 69626660-b939-36d7-aa50-9864c617da37
+[10Aug2025 01:15:20.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 69626660-b939-36d7-aa50-9864c617da37
+[10Aug2025 01:15:20.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pancho670 (69626660-b939-36d7-aa50-9864c617da37) successfully connected to voice chat
+[10Aug2025 01:15:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> JAHJAHA
+[10Aug2025 01:16:24.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ariaxer lost connection: Timed out
+[10Aug2025 01:16:24.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ariaxer left the game
+[10Aug2025 01:16:24.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ariaxer
+[10Aug2025 01:16:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pancho670 has made the advancement [Minecraft Comes Alive]
+[10Aug2025 01:16:44.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pancho670> hello
+[10Aug2025 01:16:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to pancho670]
+[10Aug2025 01:16:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hi
+[10Aug2025 01:17:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 9 entities to Flancito0_]
+[10Aug2025 01:17:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported pancho670 to Sofx0Loder]
+[10Aug2025 01:17:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pancho670> hola
+[10Aug2025 01:17:47.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Flancito0_
+[10Aug2025 01:17:47.360] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 01:17:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox has made the advancement [Tide Pod Challenge]
+[10Aug2025 01:17:59.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pancho670> okey
+[10Aug2025 01:18:02.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Tide Pod Challenge]
+[10Aug2025 01:18:04.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pancho670> sisi
+[10Aug2025 01:18:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was slain by ReyexXM
+[10Aug2025 01:18:05.260] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 01:18:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by ReyexXM
+[10Aug2025 01:18:09.720] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[10Aug2025 01:18:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported pancho670 to Sofx0Loder]
+[10Aug2025 01:18:40.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pancho670> xq souy enano
+[10Aug2025 01:18:56.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pancho670> okei
+[10Aug2025 01:19:08.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> Zzz
