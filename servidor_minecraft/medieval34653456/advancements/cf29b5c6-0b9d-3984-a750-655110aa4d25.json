@@ -1,0 +1,987 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:dungeons_and_combat": {
+    "criteria": {
+      "dungeons_and_combat_0": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-08-10 01:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-08-10 01:29:54 +0000",
+      "minecraft:river": "2025-08-10 01:26:42 +0000",
+      "minecraft:forest": "2025-08-10 01:24:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-10 01:26:49 +0000",
+      "minecraft:savanna": "2025-08-10 01:58:05 +0000",
+      "minecraft:plains": "2025-08-10 01:27:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-08-10 01:34:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "grass": "2025-08-10 01:35:51 +0000",
+      "dirt": "2025-08-10 01:34:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-10 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-10 01:35:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 01:35:23 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-10 01:35:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-10 01:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-08-10 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-08-10 01:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-10 01:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-08-10 01:42:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-10 01:46:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-10 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-08-10 01:47:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_head": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/boiled_egg_from_smoking": {
+    "criteria": {
+      "boiled_egg": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/boiled_egg_from_campfire_cooking": {
+    "criteria": {
+      "boiled_egg": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_tail": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_body": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_tail": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_head": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/boiled_egg_cooking": {
+    "criteria": {
+      "boiled_egg": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_body": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_sword": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_neck": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-08-10 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-08-10 02:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-10 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-08-10 02:32:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_titan": {
+    "criteria": {
+      "the_titan_0": "2025-08-10 02:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-10 02:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-10 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cod": "2025-08-10 02:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-10 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
