@@ -1997,3 +1997,71 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 00:58:22.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KarmaTv lost connection: Disconnected
 [10Aug2025 00:58:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KarmaTv left the game
 [10Aug2025 00:58:22.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KarmaTv
+[10Aug2025 01:00:55.592] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder saved /workspaces/fantastic-dollop/servidor_minecraft/config/worldedit/schematics/Fran.schem
+[10Aug2025 01:01:22.984] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder saved /workspaces/fantastic-dollop/servidor_minecraft/config/worldedit/schematics/Cambur.schem
+[10Aug2025 01:02:50.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> I know
+[10Aug2025 01:02:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> siterngo
+[10Aug2025 01:02:58.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> peronoquiero
+[10Aug2025 01:03:08.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set ReyexXM's game mode to Creative Mode]
+[10Aug2025 01:03:08.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Flancito0_'s game mode to Creative Mode]
+[10Aug2025 01:03:08.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set zuhazana_fr's game mode to Creative Mode]
+[10Aug2025 01:03:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Zephyzf's game mode to Creative Mode]
+[10Aug2025 01:03:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Matthorox's game mode to Creative Mode]
+[10Aug2025 01:03:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set cambursote's game mode to Creative Mode]
+[10Aug2025 01:03:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> xd
+[10Aug2025 01:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[10Aug2025 01:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set ReyexXM's game mode to Survival Mode]
+[10Aug2025 01:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Flancito0_'s game mode to Survival Mode]
+[10Aug2025 01:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set zuhazana_fr's game mode to Survival Mode]
+[10Aug2025 01:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Zephyzf's game mode to Survival Mode]
+[10Aug2025 01:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set Matthorox's game mode to Survival Mode]
+[10Aug2025 01:03:20.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set cambursote's game mode to Survival Mode]
+[10Aug2025 01:03:25.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> au
+[10Aug2025 01:03:26.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 7 entities to Sofx0Loder]
+[10Aug2025 01:03:28.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Aug2025 01:04:32.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Matthorox
+[10Aug2025 01:04:32.488] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[10Aug2025 01:04:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was slain by Zephyzf
+[10Aug2025 01:04:33.667] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 01:04:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was slain by ReyexXM
+[10Aug2025 01:04:48.384] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 01:04:55.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by zuhazana_fr
+[10Aug2025 01:04:55.169] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 01:05:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was slain by Sofx0Loder
+[10Aug2025 01:05:52.058] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 01:06:09.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf has made the advancement [Knowledge of Death]
+[10Aug2025 01:06:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf has reached the goal [Chain Death]
+[10Aug2025 01:06:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was slain by Sofx0Loder
+[10Aug2025 01:06:09.892] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 01:06:19.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Proder[/127.36.5.210:55167] logged in with entity id 3993 at (153.5, 110.0, -251.5)
+[10Aug2025 01:06:19.276] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Proder
+[10Aug2025 01:06:19.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Proder joined the game
+[10Aug2025 01:06:19.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Proder has made the advancement [Nether's Exoticism]
+[10Aug2025 01:06:19.542] [Server thread/INFO] [Jade/]: Syncing config to Proder (1a86893a-dca6-3f44-a295-cc415058f371)
+[10Aug2025 01:06:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Proder has made the advancement [Dungeons And Combat]
+[10Aug2025 01:06:19.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Proder has made the advancement [Ice and Fire]
+[10Aug2025 01:06:36.609] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Proder (18)
+[10Aug2025 01:06:36.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Proder
+[10Aug2025 01:06:37.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Removed 9 item(s) from 8 players]
+[10Aug2025 01:06:38.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cc4334d[id=<null>,name=sofiaavigg,properties={},legacy=false] (/127.108.235.101:33255) lost connection: Disconnected
+[10Aug2025 01:06:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> denme mis burbujas
+[10Aug2025 01:06:46.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1a86893a-dca6-3f44-a295-cc415058f371
+[10Aug2025 01:06:47.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1a86893a-dca6-3f44-a295-cc415058f371
+[10Aug2025 01:06:47.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Proder (1a86893a-dca6-3f44-a295-cc415058f371) successfully connected to voice chat
+[10Aug2025 01:06:47.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> hdps
+[10Aug2025 01:06:57.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1a86893a-dca6-3f44-a295-cc415058f371 timed out
+[10Aug2025 01:06:57.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Proder
+[10Aug2025 01:06:57.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Proder
+[10Aug2025 01:07:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> DAME YA LAS VEO
+[10Aug2025 01:07:21.306] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cbf1eba[id=<null>,name=sofiaavigg,properties={},legacy=false] (/127.108.235.101:57735) lost connection: Disconnected
+[10Aug2025 01:07:23.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1a86893a-dca6-3f44-a295-cc415058f371
+[10Aug2025 01:07:24.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1a86893a-dca6-3f44-a295-cc415058f371
+[10Aug2025 01:07:24.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Proder (1a86893a-dca6-3f44-a295-cc415058f371) successfully connected to voice chat
+[10Aug2025 01:07:29.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyexXM was slain by Zephyzf
+[10Aug2025 01:07:29.538] [Server thread/INFO] [tombstone/]: The player ReyexXM has successfully been saved
+[10Aug2025 01:07:44.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was slain by Flancito0_
+[10Aug2025 01:07:44.415] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 01:07:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Proder]
+[10Aug2025 01:08:09.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> MIS BURBUJAS LEO
+[10Aug2025 01:09:02.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> DAME
+[10Aug2025 01:09:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> PERO POQ NO ME DEJA
