@@ -1949,3 +1949,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 00:48:51.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KarmaTv lost connection: Disconnected
 [10Aug2025 00:48:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KarmaTv left the game
 [10Aug2025 00:48:51.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KarmaTv
+[10Aug2025 00:49:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Zephyzf
+[10Aug2025 00:49:35.229] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:50:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 7 entities to Sofx0Loder]
+[10Aug2025 00:51:14.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was slain by Zephyzf
+[10Aug2025 00:51:14.933] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 00:51:15.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=153, y=109, z=-254}
+[10Aug2025 00:51:27.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zuhazana_fr was slain by Matthorox
+[10Aug2025 00:51:27.934] [Server thread/INFO] [tombstone/]: The player zuhazana_fr has successfully been saved
+[10Aug2025 00:52:01.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf was slain by Matthorox
+[10Aug2025 00:52:01.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zephyzf has made the advancement [Your First Grave]
+[10Aug2025 00:52:01.886] [Server thread/INFO] [tombstone/]: The player Zephyzf has successfully been saved
+[10Aug2025 00:52:11.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KarmaTv[/127.38.6.128:60691] logged in with entity id 3284 at (156.69999998807907, 110.0, -251.2152083417905)
+[10Aug2025 00:52:11.529] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KarmaTv
+[10Aug2025 00:52:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KarmaTv joined the game
+[10Aug2025 00:52:11.829] [Server thread/INFO] [Jade/]: Syncing config to KarmaTv (b58bc96e-3f67-3410-9c2a-e5126cb25367)
+[10Aug2025 00:52:11.837] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KarmaTv (18)
+[10Aug2025 00:52:11.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KarmaTv
+[10Aug2025 00:52:31.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b58bc96e-3f67-3410-9c2a-e5126cb25367
+[10Aug2025 00:52:32.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b58bc96e-3f67-3410-9c2a-e5126cb25367
+[10Aug2025 00:52:32.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KarmaTv (b58bc96e-3f67-3410-9c2a-e5126cb25367) successfully connected to voice chat
+[10Aug2025 00:53:00.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7aaa91e6[id=<null>,name=sofiaavigg,properties={},legacy=false] (/127.108.235.101:38671) lost connection: Disconnected
+[10Aug2025 00:53:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matthorox was slain by Zephyzf
+[10Aug2025 00:53:33.785] [Server thread/INFO] [tombstone/]: The player Matthorox has successfully been saved
+[10Aug2025 00:54:29.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> Rexey estas muteado
+[10Aug2025 00:54:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ensordecido
+[10Aug2025 00:54:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> lucas
+[10Aug2025 00:54:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> estas muteado tmb
+[10Aug2025 00:54:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zuhazana_fr> y ase
+[10Aug2025 00:55:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> pero saca, no no escuchas
+[10Aug2025 00:55:15.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> cuandoempiezaelserver
+[10Aug2025 00:55:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzzz
+[10Aug2025 00:55:38.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zephyzf> ñiñi
+[10Aug2025 00:56:36.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cambursote was slain by Flancito0_
+[10Aug2025 00:56:36.778] [Server thread/INFO] [tombstone/]: The player cambursote has successfully been saved
+[10Aug2025 00:56:51.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b58bc96e-3f67-3410-9c2a-e5126cb25367 timed out
+[10Aug2025 00:56:51.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player KarmaTv
+[10Aug2025 00:56:51.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to KarmaTv
+[10Aug2025 00:57:44.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b58bc96e-3f67-3410-9c2a-e5126cb25367
+[10Aug2025 00:57:45.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b58bc96e-3f67-3410-9c2a-e5126cb25367
+[10Aug2025 00:57:45.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KarmaTv (b58bc96e-3f67-3410-9c2a-e5126cb25367) successfully connected to voice chat
+[10Aug2025 00:57:56.081] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b58bc96e-3f67-3410-9c2a-e5126cb25367 timed out
+[10Aug2025 00:57:56.081] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player KarmaTv
+[10Aug2025 00:57:56.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to KarmaTv
+[10Aug2025 00:58:09.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Made Zephyzf a server operator]
+[10Aug2025 00:58:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ./mca editor
+[10Aug2025 00:58:22.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KarmaTv lost connection: Disconnected
+[10Aug2025 00:58:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KarmaTv left the game
+[10Aug2025 00:58:22.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KarmaTv
