@@ -1,429 +1,379 @@
-[00:00:59] [Server thread/INFO]: therealgrass lost connection: Disconnected
-[00:00:59] [Server thread/INFO]: [voicechat] Disconnecting client therealgrass
-[00:00:59] [Server thread/INFO]: therealgrass left the game
-[00:01:38] [Server thread/INFO]: Matthorox has made the advancement [Acquire Hardware]
-[00:01:47] [Server thread/INFO]: Matthorox has made the advancement [Isn't It Iron Pick]
-[00:02:49] [Server thread/INFO]: Villager Villager['Farmer'/564, uuid='56409ca8-8631-41c1-ab53-208fa58074e8', l='ServerLevel[city]', x=203.71, y=69.00, z=107.39, cpos=[12, 6], tl=28487, v=true] died, message: 'Farmer was slain by Zephyzf'
-[00:03:46] [Server thread/INFO]: Sofx0Loder issued server command: /tp Zephyzf
-[00:03:46] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Zephyzf]
-[00:05:11] [User Authenticator #4/INFO]: UUID of player therealgrass is 3ffcf9a8-c1d2-3665-b39b-897a9638497a
-[00:05:12] [Server thread/INFO]: therealgrass joined the game
-[00:05:12] [Server thread/INFO]: therealgrass[/127.171.142.174:48017] logged in with entity id 13848 at ([city]-374.1204601427994, 82.0, 783.3000000119209)
-[00:05:13] [Server thread/INFO]: [voicechat] Received secret request of therealgrass (18)
-[00:05:13] [Server thread/INFO]: [voicechat] Sent secret to therealgrass
-[00:05:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3ffcf9a8-c1d2-3665-b39b-897a9638497a
-[00:05:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3ffcf9a8-c1d2-3665-b39b-897a9638497a
-[00:05:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player therealgrass (3ffcf9a8-c1d2-3665-b39b-897a9638497a) successfully connected to voice chat
-[00:06:46] [Async Chat Thread - #6/INFO]: [Not Secure] <therealgrass> puedo ir con ustedes??
-[00:06:47] [Server thread/INFO]: therealgrass has made the advancement [Acquire Hardware]
-[00:07:07] [Server thread/INFO]: Sofx0Loder issued server command: /tp therealgrass Sofx0Loder
-[00:07:07] [Server thread/INFO]: [Sofx0Loder: Teleported therealgrass to Sofx0Loder]
-[00:07:13] [Async Chat Thread - #6/INFO]: [Not Secure] <therealgrass> se me cayo mi trigo
-[00:07:19] [Server thread/INFO]: Matthorox has made the advancement [Not Today, Thank You]
-[00:08:06] [Server thread/INFO]: therealgrass has made the advancement [Sweet Dreams]
-[00:08:26] [Server thread/INFO]: Sofx0Loder was slain by Zephyzf
-[00:08:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Zephyzf> XD
-[00:09:01] [Server thread/INFO]: Zephyzf was slain by Sofx0Loder
-[00:09:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Zephyzf> pero
-[00:09:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Zephyzf> ...
-[00:09:07] [Server thread/INFO]: Sofx0Loder issued server command: /tp Zephyzf Sofx0Loder
-[00:09:07] [Server thread/INFO]: [Sofx0Loder: Teleported Zephyzf to Sofx0Loder]
-[00:10:05] [Server thread/INFO]: therealgrass has made the advancement [Isn't It Iron Pick]
-[00:10:10] [Server thread/INFO]: Sofx0Loder lost connection: Disconnected
-[00:10:10] [Server thread/INFO]: [voicechat] Disconnecting client Sofx0Loder
-[00:10:10] [Server thread/INFO]: Sofx0Loder left the game
-[00:12:41] [Server thread/INFO]: Made Zephyzf a server operator
-[00:13:13] [Server thread/INFO]: Zephyzf issued server command: /tp Matthorox
-[00:13:13] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to Matthorox]
-[00:13:16] [Server thread/INFO]: therealgrass has made the advancement [Monster Hunter]
-[00:13:28] [Server thread/INFO]: therealgrass lost connection: Disconnected
-[00:13:28] [Server thread/INFO]: [voicechat] Disconnecting client therealgrass
-[00:13:28] [Server thread/INFO]: therealgrass left the game
-[00:14:29] [Server thread/INFO]: Matthorox has made the advancement [Diamonds!]
-[00:15:57] [Server thread/INFO]: Matthorox has made the advancement [Sneak 100]
-[00:16:22] [Server thread/INFO]: Zephyzf has made the advancement [Isn't It Iron Pick]
-[00:17:01] [Server thread/INFO]: Matthorox has made the advancement [Suit Up]
-[00:17:56] [Server thread/INFO]: Zephyzf has made the advancement [Diamonds!]
-[00:18:12] [User Authenticator #5/INFO]: UUID of player rx7fcm3 is dfe05415-49ad-35a9-b347-1a5ac075a213
-[00:18:15] [Server thread/INFO]: rx7fcm3 joined the game
-[00:18:15] [Server thread/INFO]: rx7fcm3[/127.244.23.209:36465] logged in with entity id 17304 at ([city]-1.5, 80.0, 9.5)
-[00:18:16] [Server thread/INFO]: [voicechat] Received secret request of rx7fcm3 (18)
-[00:18:16] [Server thread/INFO]: [voicechat] Sent secret to rx7fcm3
-[00:18:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player dfe05415-49ad-35a9-b347-1a5ac075a213
-[00:18:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player dfe05415-49ad-35a9-b347-1a5ac075a213
-[00:18:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player rx7fcm3 (dfe05415-49ad-35a9-b347-1a5ac075a213) successfully connected to voice chat
-[00:18:42] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:18:42] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:18:57] [Async Chat Thread - #10/INFO]: [Not Secure] <Matthorox> patito?
-[00:19:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Matthorox> nos escuchas?
-[00:20:02] [Server thread/INFO]: rx7fcm3 has made the advancement [Sneak 100]
-[00:20:06] [User Authenticator #6/INFO]: UUID of player Flancito0_ is 807d4b02-2892-3ac2-a000-a9c5173caa95
-[00:20:08] [Server thread/INFO]: Flancito0_ joined the game
-[00:20:08] [Server thread/INFO]: Flancito0_[/127.98.20.34:60023] logged in with entity id 17930 at ([city]-0.5, 80.0, 3.5)
-[00:20:24] [Server thread/INFO]: rx7fcm3 has made the advancement [Stone Age]
-[00:20:28] [Server thread/INFO]: rx7fcm3 has made the advancement [Isn't It Iron Pick]
-[00:21:00] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:21:00] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:21:41] [Server thread/INFO]: Flancito0_ lost connection: Disconnected
-[00:21:41] [Server thread/INFO]: [voicechat] Disconnecting client Flancito0_
-[00:21:41] [Server thread/INFO]: Flancito0_ left the game
-[00:21:55] [Server thread/INFO]: rx7fcm3 has made the advancement [Diamonds!]
-[00:21:58] [Async Chat Thread - #12/INFO]: [Not Secure] <rx7fcm3> ez
-[00:22:27] [Async Chat Thread - #12/INFO]: [Not Secure] <rx7fcm3> gohan cree grupo
-[00:22:29] [Server thread/INFO]: rx7fcm3 issued server command: /unite
-[00:22:32] [Async Chat Thread - #12/INFO]: [Not Secure] <rx7fcm3> unite
-[00:23:26] [Server thread/INFO]: rx7fcm3 has made the advancement [Monster Hunter]
-[00:26:30] [Server thread/INFO]: rx7fcm3 tried to swim in lava
-[00:27:25] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [21, -45], pos: BlockPos{x=337, y=47, z=-705}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[00:27:30] [Server thread/INFO]: Zephyzf issued server command: /time set day
-[00:27:30] [Server thread/INFO]: [Zephyzf: Set the time to 1000]
-[00:28:09] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:28:09] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:28:30] [Server thread/INFO]: Made rx7fcm3 a server operator
-[00:28:37] [Server thread/INFO]: rx7fcm3 fell from a high place
-[00:28:48] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:28:48] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:30:34] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:30:34] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:32:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Zephyzf> ahorita viene mi cuñado
-[00:32:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Zephyzf> vamos controlando el culito
-[00:32:49] [Async Chat Thread - #14/INFO]: [Not Secure] <Zephyzf> y vos patito vbas
-[00:32:54] [Async Chat Thread - #14/INFO]: [Not Secure] <Zephyzf> guardandolosa´podos
-[00:32:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Zephyzf> yasabes
-[00:32:59] [Server thread/INFO]: rx7fcm3 has made the advancement [Ice Bucket Challenge]
-[00:33:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Zephyzf> al mc
-[00:34:57] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3t
-[00:34:58] [Server thread/INFO]: [Not Secure] [Server] no pongan de dia, se pierden los dias
-[00:35:13] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:35:13] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:35:56] [Server thread/INFO]: rx7fcm3 was slain by Zephyzf
-[00:36:05] [Server thread/INFO]: Teleported Zephyzf to Matthorox
-[00:36:07] [Server thread/INFO]: Matthorox has made the advancement [Cover Me with Diamonds]
-[00:36:10] [Server thread/INFO]: [Not Secure] [Server] pillin
-[00:36:22] [Async Chat Thread - #17/INFO]: [Not Secure] <Zephyzf> pero leo
-[00:36:26] [Async Chat Thread - #17/INFO]: [Not Secure] <Zephyzf> LAS COSAS DE PATO
-[00:36:31] [Server thread/INFO]: [Not Secure] [Server] JSHDFJSD
-[00:36:31] [Async Chat Thread - #17/INFO]: [Not Secure] <Zephyzf> AAH
-[00:36:38] [Server thread/INFO]: Teleported Zephyzf to rx7fcm3
-[00:36:45] [Async Chat Thread - #17/INFO]: [Not Secure] <Zephyzf> era donde estaba antes..
-[00:36:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Zephyzf> ya perdi la ubi
-[00:37:07] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:37:07] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:37:42] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:37:42] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:37:53] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:37:53] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:38:01] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:38:01] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:38:09] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:38:09] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:38:48] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:38:48] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:38:56] [User Authenticator #7/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
-[00:38:57] [Server thread/INFO]: cambursote joined the game
-[00:38:57] [Server thread/INFO]: cambursote[/127.86.249.102:52383] logged in with entity id 26780 at ([city]0.5, 85.0, -9.5)
-[00:38:58] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
-[00:38:58] [Server thread/INFO]: [voicechat] Sent secret to cambursote
-[00:38:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
-[00:38:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
-[00:38:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
-[00:39:06] [Async Chat Thread - #19/INFO]: [Not Secure] <cambursote> ahora si perritas
-[00:39:17] [Async Chat Thread - #19/INFO]: [Not Secure] <rx7fcm3> perrita vos grodito
-[00:39:24] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:39:24] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:39:43] [User Authenticator #7/INFO]: UUID of player Flancito0_ is 807d4b02-2892-3ac2-a000-a9c5173caa95
-[00:39:45] [Server thread/INFO]: Flancito0_ joined the game
-[00:39:45] [Server thread/INFO]: Flancito0_[/127.98.20.34:33283] logged in with entity id 27200 at ([city]9.510969115709225, 87.0, -12.510420779023757)
-[00:39:45] [Server thread/INFO]: [voicechat] Received secret request of Flancito0_ (18)
-[00:39:45] [Server thread/INFO]: [voicechat] Sent secret to Flancito0_
-[00:39:46] [Server thread/INFO]: Zephyzf issued server command: /tp Matthorox Zephyzf
-[00:39:46] [Server thread/INFO]: [Zephyzf: Teleported Matthorox to Zephyzf]
-[00:39:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
-[00:39:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
-[00:39:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
-[00:40:31] [User Authenticator #7/INFO]: UUID of player Chupetechupado is a16925be-2ab1-3802-90ce-932fe77d7534
-[00:40:33] [Server thread/INFO]: Chupetechupado joined the game
-[00:40:33] [Server thread/INFO]: Chupetechupado[/127.3.60.122:39703] logged in with entity id 27463 at ([city]-1.5, 80.0, 9.5)
-[00:40:33] [Server thread/INFO]: [voicechat] Received secret request of Chupetechupado (18)
-[00:40:33] [Server thread/INFO]: [voicechat] Sent secret to Chupetechupado
-[00:40:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a16925be-2ab1-3802-90ce-932fe77d7534
-[00:40:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a16925be-2ab1-3802-90ce-932fe77d7534
-[00:40:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chupetechupado (a16925be-2ab1-3802-90ce-932fe77d7534) successfully connected to voice chat
-[00:41:00] [Server thread/INFO]: cambursote issued server command: /skin set mojang
-[00:41:45] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3 Zephyzf
-[00:41:45] [Server thread/INFO]: [Zephyzf: Teleported rx7fcm3 to Zephyzf]
-[00:42:08] [Server thread/INFO]: [Not Secure] [Server] ola
-[00:42:11] [Server thread/INFO]: [Not Secure] [Server] va lag?
-[00:42:15] [Async Chat Thread - #21/INFO]: [Not Secure] <cambursote> no gordito
-[00:42:18] [Server thread/INFO]: cambursote has made the advancement [Stone Age]
-[00:42:18] [Async Chat Thread - #21/INFO]: [Not Secure] <Flancito0_> va bien
-[00:42:21] [Server thread/INFO]: rx7fcm3 has made the advancement [Suit Up]
-[00:42:25] [Server thread/INFO]: [Not Secure] [Server] joyon
-[00:42:27] [Async Chat Thread - #21/INFO]: [Not Secure] <cambursote> va peor
-[00:42:52] [Async Chat Thread - #21/INFO]: [Not Secure] <Zephyzf> sera tu pc cambur, poq a nosotros nos va bn
-[00:43:02] [Async Chat Thread - #21/INFO]: [Not Secure] <Matthorox> 247 x 256
-[00:43:06] [Async Chat Thread - #22/INFO]: [Not Secure] <cambursote> era mentirita corazon
-[00:43:14] [Server thread/INFO]: Flancito0_ was slain by cambursote
-[00:43:32] [Server thread/INFO]: Flancito0_ was slain by Chupetechupado
-[00:43:43] [Server thread/INFO]: cambursote hit the ground too hard while trying to escape Flancito0_
-[00:43:47] [Server thread/INFO]: Chupetechupado has made the advancement [Stone Age]
-[00:44:05] [Server thread/INFO]: [Not Secure] [Server] corazon
-[00:44:08] [Server thread/INFO]: [Not Secure] [Server] ahi va
-[00:44:15] [Server thread/INFO]: [Not Secure] [Server] patito gorreado
-[00:44:31] [Server thread/INFO]: Flancito0_ lost connection: Disconnected
-[00:44:31] [Server thread/INFO]: [voicechat] Disconnecting client Flancito0_
-[00:44:31] [Server thread/INFO]: Flancito0_ left the game
-[00:44:40] [Server thread/INFO]: Chupetechupado has made the advancement [Monster Hunter]
-[00:44:54] [Server thread/INFO]: Zephyzf issued server command: /tp Chupetechupado
-[00:44:54] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to Chupetechupado]
-[00:44:58] [Server thread/INFO]: cambursote issued server command: /skin set mojang amiico_77
-[00:45:02] [Server thread/INFO]: cambursote issued server command: /skin set amiico_77
-[00:45:22] [Server thread/INFO]: Zephyzf issued server command: /tp cambursote
-[00:45:22] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to cambursote]
-[00:45:26] [Server thread/INFO]: Chupetechupado was slain by Zombie
-[00:45:39] [Server thread/INFO]: rx7fcm3 was killed by Witch using magic
-[00:46:25] [Server thread/INFO]: Zephyzf issued server command: /TP
-[00:46:31] [Server thread/INFO]: Chupetechupado has made the advancement [Getting an Upgrade]
-[00:46:39] [Server thread/INFO]: Zephyzf issued server command: /tp Chupetechupado
-[00:46:39] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to Chupetechupado]
-[00:47:02] [Server thread/INFO]: Matthorox has made the advancement [Take Aim]
-[00:47:05] [Async Chat Thread - #23/INFO]: [Not Secure] <Zephyzf> yo tmb te quiero mila
-[00:48:07] [Server thread/INFO]: cambursote has made the advancement [Getting an Upgrade]
-[00:48:39] [Server thread/INFO]: Zephyzf lost connection: Disconnected
-[00:48:39] [Server thread/INFO]: [voicechat] Disconnecting client Zephyzf
-[00:48:39] [Server thread/INFO]: Zephyzf left the game
-[00:48:58] [User Authenticator #8/INFO]: UUID of player Tomii878 is 393db7a1-7bf1-3575-ae12-b11aaef45ab6
-[00:48:59] [Server thread/INFO]: Tomii878 joined the game
-[00:48:59] [Server thread/INFO]: Tomii878[/127.120.71.228:53853] logged in with entity id 32244 at ([city]5.5, 85.0, -6.5)
-[00:49:13] [Server thread/INFO]: cambursote fell from a high place
-[00:49:56] [Async Chat Thread - #25/INFO]: [Not Secure] <Tomii878> pasen cords
-[00:50:06] [Async Chat Thread - #25/INFO]: [Not Secure] <cambursote> chupame la pija mejor
-[00:50:13] [Server thread/INFO]: Chupetechupado has made the advancement [Acquire Hardware]
-[00:50:29] [Async Chat Thread - #25/INFO]: [Not Secure] <Tomii878> dale revancha cambur
-[00:50:36] [Server thread/INFO]: Chupetechupado has made the advancement [Isn't It Iron Pick]
-[00:50:37] [Async Chat Thread - #25/INFO]: [Not Secure] <cambursote> nono chupame la pija
-[00:51:01] [Server thread/INFO]: rx7fcm3 has made the advancement [Acquire Hardware]
-[00:51:03] [Server thread/INFO]: Teleported Tomii878 to cambursote
-[00:51:13] [Server thread/INFO]: Made Tomii878 a server operator
-[00:51:20] [Async Chat Thread - #25/INFO]: [Not Secure] <cambursote> PERO
-[00:51:26] [Server thread/INFO]: cambursote was slain by Tomii878
-[00:51:28] [Server thread/INFO]: Tomii878 has made the advancement [Getting an Upgrade]
-[00:51:29] [Server thread/INFO]: Tomii878 has made the advancement [Stone Age]
-[00:51:39] [Async Chat Thread - #25/INFO]: [Not Secure] <Tomii878> gracias por el hierro
-[00:51:39] [Async Chat Thread - #25/INFO]: [Not Secure] <Chupetechupado> No entiendo el chiste del tp
-[00:51:47] [Async Chat Thread - #25/INFO]: [Not Secure] <cambursote> leo veni
-[00:52:08] [User Authenticator #9/INFO]: UUID of player Zephyzf is b8d479d3-f010-3591-8f6c-5071ff121b33
-[00:52:09] [Server thread/INFO]: Zephyzf joined the game
-[00:52:09] [Server thread/INFO]: Zephyzf[/127.221.75.206:51679] logged in with entity id 33343 at ([city]-103.89327557178827, 102.0, -66.91273175280483)
-[00:52:09] [Server thread/INFO]: [voicechat] Received secret request of Zephyzf (18)
-[00:52:09] [Server thread/INFO]: [voicechat] Sent secret to Zephyzf
-[00:52:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b8d479d3-f010-3591-8f6c-5071ff121b33
-[00:52:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b8d479d3-f010-3591-8f6c-5071ff121b33
-[00:52:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Zephyzf (b8d479d3-f010-3591-8f6c-5071ff121b33) successfully connected to voice chat
-[00:52:49] [Server thread/INFO]: Zephyzf issued server command: /tp rx7fcm3
-[00:52:49] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to rx7fcm3]
-[00:52:58] [Async Chat Thread - #27/INFO]: [Not Secure] <cambursote> asqueroso
-[00:53:05] [Server thread/INFO]: Chupetechupado has made the advancement [Suit Up]
-[00:53:16] [Server thread/INFO]: rx7fcm3 issued server command: /unite al grupo
-[00:53:21] [Server thread/INFO]: [Not Secure] [Server] admins no abusen del tp (Zephy)
-[00:53:21] [Async Chat Thread - #27/INFO]: [Not Secure] <rx7fcm3> unite al grupo
-[00:53:25] [Async Chat Thread - #27/INFO]: [Not Secure] <rx7fcm3> AHAHSSDHA'
-[00:53:33] [Server thread/INFO]: You whisper to Zephyzf: paje
-[00:53:41] [Server thread/INFO]: cambursote was slain by Tomii878
-[00:53:58] [Server thread/INFO]: Zephyzf lost connection: Disconnected
-[00:53:58] [Server thread/INFO]: [voicechat] Disconnecting client Zephyzf
-[00:53:58] [Server thread/INFO]: Zephyzf left the game
-[00:54:14] [User Authenticator #10/INFO]: UUID of player Juponski is cf8ddd05-72ae-3088-a80f-33ba26d2bd98
-[00:54:15] [Server thread/INFO]: Juponski joined the game
-[00:54:15] [Server thread/INFO]: Juponski[/127.221.75.206:38953] logged in with entity id 35130 at ([city]6.5, 86.0, -9.5)
-[00:54:21] [User Authenticator #10/INFO]: UUID of player Zephyzf is b8d479d3-f010-3591-8f6c-5071ff121b33
-[00:54:22] [Async Chat Thread - #27/INFO]: [Not Secure] <cambursote> asi injugable loco
-[00:54:22] [Server thread/INFO]: Zephyzf joined the game
-[00:54:22] [Server thread/INFO]: Zephyzf[/127.221.75.206:53651] logged in with entity id 35202 at ([city]1229.5675901231918, 61.34557536434297, 442.72674075032796)
-[00:54:23] [Server thread/INFO]: [voicechat] Received secret request of Zephyzf (18)
-[00:54:23] [Server thread/INFO]: [voicechat] Sent secret to Zephyzf
-[00:54:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b8d479d3-f010-3591-8f6c-5071ff121b33
-[00:54:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b8d479d3-f010-3591-8f6c-5071ff121b33
-[00:54:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Zephyzf (b8d479d3-f010-3591-8f6c-5071ff121b33) successfully connected to voice chat
-[00:54:29] [Server thread/INFO]: Zephyzf issued server command: /tp Juponski
-[00:54:29] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to Juponski]
-[00:54:50] [Server thread/INFO]: Juponski has made the advancement [Isn't It Iron Pick]
-[00:54:50] [Server thread/INFO]: Juponski has made the advancement [Getting an Upgrade]
-[00:54:54] [Server thread/INFO]: Juponski has made the advancement [Diamonds!]
-[00:55:19] [Server thread/INFO]: You whisper to Zephyzf: deja de tepearte nena
-[00:55:27] [Server thread/INFO]: Tomii878 tried to swim in lava
-[00:55:33] [Server thread/INFO]: cambursote lost connection: Disconnected
-[00:55:33] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
-[00:55:33] [Server thread/INFO]: cambursote left the game
-[00:55:42] [Server thread/INFO]: Zephyzf issued server command: /aa
-[00:55:46] [User Authenticator #11/INFO]: UUID of player Sofx0Loder is cf29b5c6-0b9d-3984-a750-655110aa4d25
-[00:55:47] [Server thread/INFO]: Sofx0Loder joined the game
-[00:55:47] [Server thread/INFO]: Sofx0Loder[/127.243.140.153:58491] logged in with entity id 36617 at ([city]188.60285719762544, 64.0, 101.69871282346222)
-[00:55:48] [Server thread/INFO]: [voicechat] Received secret request of Sofx0Loder (18)
-[00:55:48] [Server thread/INFO]: [voicechat] Sent secret to Sofx0Loder
-[00:55:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
-[00:55:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
-[00:55:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
-[00:55:56] [Server thread/INFO]: Sofx0Loder issued server command: /tp Zephyzf
-[00:55:56] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Zephyzf]
-[00:55:58] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
-[00:55:58] [Server thread/INFO]: [Sofx0Loder: Set own game mode to Creative Mode]
-[00:56:03] [Server thread/INFO]: Juponski has made the advancement [Stone Age]
-[00:56:14] [Server thread/INFO]: Tomii878 was slain by Zephyzf
-[00:56:15] [Server thread/INFO]: Sofx0Loder issued server command: /tp Juponski
-[00:56:15] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Juponski]
-[00:56:20] [Server thread/INFO]: Sofx0Loder issued server command: /tp Zephyzf
-[00:56:20] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Zephyzf]
-[00:56:24] [User Authenticator #11/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
-[00:56:25] [Server thread/INFO]: cambursote joined the game
-[00:56:25] [Server thread/INFO]: cambursote[/127.86.249.102:36215] logged in with entity id 37277 at ([city]83.51033615769038, 88.0, -23.239452830860767)
-[00:56:26] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
-[00:56:26] [Server thread/INFO]: [voicechat] Sent secret to cambursote
-[00:56:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
-[00:56:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
-[00:56:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
-[00:56:45] [Server thread/INFO]: Sofx0Loder issued server command: /tp Zephyzf
-[00:56:45] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Zephyzf]
-[00:56:50] [User Authenticator #11/INFO]: UUID of player silversote is 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
-[00:56:50] [Server thread/INFO]: silversote joined the game
-[00:56:50] [Server thread/INFO]: silversote[/127.13.177.154:60935] logged in with entity id 37767 at ([city]-9.5, 80.0, 8.5)
-[00:56:51] [Server thread/INFO]: [voicechat] Received secret request of silversote (18)
-[00:56:51] [Server thread/INFO]: [voicechat] Sent secret to silversote
-[00:56:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
-[00:56:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
-[00:56:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player silversote (0e8951b6-6c65-3ce6-8052-0aa8d3cb9143) successfully connected to voice chat
-[00:56:54] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
-[00:56:54] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to silversote]
-[00:56:56] [Server thread/INFO]: cambursote was slain by Tomii878
-[00:57:12] [Server thread/INFO]: Zephyzf was slain by Tomii878
-[00:57:14] [Server thread/INFO]: Tomii878 has made the advancement [Diamonds!]
-[00:57:18] [Server thread/INFO]: Tomii878 has made the advancement [Acquire Hardware]
-[00:57:18] [Server thread/INFO]: Zephyzf issued server command: /tp Tomii878
-[00:57:18] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to Tomii878]
-[00:57:22] [Server thread/INFO]: Zephyzf issued server command: /kill t
-[00:57:24] [Server thread/INFO]: Juponski has made the advancement [Sweet Dreams]
-[00:57:25] [Server thread/INFO]: Zephyzf was slain by Tomii878
-[00:57:34] [Server thread/INFO]: Zephyzf issued server command: /tp Tomii878
-[00:57:34] [Server thread/INFO]: [Zephyzf: Teleported Zephyzf to Tomii878]
-[00:57:35] [Async Chat Thread - #29/INFO]: [Not Secure] <Sofx0Loder> los tepeo a todos juntos ahora
-[00:57:38] [Server thread/INFO]: Zephyzf issued server command: /kill Tomii878
-[00:57:38] [Server thread/INFO]: Tomii878 was killed
-[00:57:38] [Server thread/INFO]: [Zephyzf: Killed Tomii878]
-[00:57:40] [Server thread/INFO]: silversote was slain by cambursote
-[00:57:54] [Server thread/INFO]: Sofx0Loder issued server command: /tp @a Sofx0Loder
-[00:57:54] [Server thread/INFO]: [Sofx0Loder: Teleported 9 entities to Sofx0Loder]
-[00:58:28] [Server thread/INFO]: Zephyzf was slain by Tomii878
-[00:58:35] [Server thread/INFO]: Zephyzf issued server command: /kill Tomii878
-[00:58:35] [Server thread/INFO]: Tomii878 was killed
-[00:58:35] [Server thread/INFO]: [Zephyzf: Killed Tomii878]
-[00:58:36] [Server thread/INFO]: cambursote was slain by Zombie
-[00:58:40] [Server thread/INFO]: silversote was slain by Zombie
-[00:59:08] [Server thread/INFO]: Sofx0Loder issued server command: /tp Matthorox
-[00:59:08] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Matthorox]
-[00:59:19] [Server thread/INFO]: Tomii878 has made the advancement [Monster Hunter]
-[00:59:35] [Server thread/INFO]: Sofx0Loder issued server command: /op silversote
-[00:59:35] [Server thread/INFO]: [Sofx0Loder: Made silversote a server operator]
-[01:00:14] [Server thread/INFO]: silversote was shot by Skeleton
-[01:00:18] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives add Vida
-[01:00:21] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives add Vida health
-[01:00:21] [Server thread/INFO]: [Sofx0Loder: Created new objective [Vida]]
-[01:00:29] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives setdisplay list Vida
-[01:00:29] [Server thread/INFO]: [Sofx0Loder: Set display slot list to show objective Vida]
-[01:00:39] [Server thread/INFO]: silversote was slain by Zombie
-[01:00:42] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives setdisplay below_name Vida
-[01:00:42] [Server thread/INFO]: [Sofx0Loder: Set display slot below_name to show objective Vida]
-[01:01:07] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives add Muertes deathCount
-[01:01:07] [Server thread/INFO]: [Sofx0Loder: Created new objective [Muertes]]
-[01:01:14] [Server thread/INFO]: Juponski has made the advancement [Acquire Hardware]
-[01:01:31] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives setdisplay sidebar Muertes
-[01:01:31] [Server thread/INFO]: [Sofx0Loder: Set display slot sidebar to show objective Muertes]
-[01:01:32] [Server thread/INFO]: silversote issued server command: /tp sil
-[01:01:41] [Async Chat Thread - #31/INFO]: [Not Secure] <Sofx0Loder> de nada
-[01:01:50] [Async Chat Thread - #31/INFO]: [Not Secure] <rx7fcm3> chupame la bola gordo de mrd
-[01:01:52] [Server thread/INFO]: silversote issued server command: /tp silversote tomi
-[01:01:55] [Async Chat Thread - #31/INFO]: [Not Secure] <rx7fcm3> gracias por el conatdor
-[01:01:58] [Server thread/INFO]: rx7fcm3 issued server command: /contador
-[01:02:01] [Async Chat Thread - #31/INFO]: [Not Secure] <rx7fcm3> contador
-[01:02:01] [Async Chat Thread - #31/INFO]: [Not Secure] <cambursote> leo dame 12 de hierro y hacha de piedra dale
-[01:02:03] [Server thread/INFO]: Sofx0Loder issued server command: /tp rx7fcm3
-[01:02:03] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to rx7fcm3]
-[01:02:04] [Async Chat Thread - #31/INFO]: [Not Secure] <rx7fcm3> mua
-[01:02:12] [Server thread/INFO]: silversote issued server command: /tp silversote Tomii878
-[01:02:12] [Server thread/INFO]: [silversote: Teleported silversote to Tomii878]
-[01:02:19] [Server thread/INFO]: Matthorox has made the advancement [Hot Stuff]
-[01:02:27] [Server thread/INFO]: Juponski has made the advancement [Monster Hunter]
-[01:02:42] [Server thread/INFO]: Juponski was slain by Zombie
-[01:02:46] [Server thread/INFO]: Juponski issued server command: /back
-[01:03:21] [Async Chat Thread - #33/INFO]: [Not Secure] <Sofx0Loder> reinicio el sv, voy a activar el nether
-[01:03:22] [Async Chat Thread - #33/INFO]: [Not Secure] <Sofx0Loder> ok?
-[01:03:30] [Async Chat Thread - #33/INFO]: [Not Secure] <cambursote> chupala
-[01:03:49] [Server thread/INFO]: Zephyzf lost connection: Disconnected
-[01:03:49] [Server thread/INFO]: [voicechat] Disconnecting client Zephyzf
-[01:03:49] [Server thread/INFO]: Zephyzf left the game
-[01:03:52] [Server thread/INFO]: Juponski lost connection: Disconnected
-[01:03:52] [Server thread/INFO]: [voicechat] Disconnecting client Juponski
-[01:03:52] [Server thread/INFO]: Juponski left the game
-[01:03:52] [Server thread/INFO]: Sofx0Loder issued server command: /tp cambursote
-[01:03:52] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to cambursote]
-[01:04:11] [Server thread/INFO]: cambursote was slain by Tomii878
-[01:04:21] [Server thread/INFO]: silversote was slain by cambursote
-[01:04:23] [Server thread/INFO]: Tomii878 was slain by Chupetechupado
-[01:04:44] [Server thread/INFO]: Tomii878 was slain by Chupetechupado
-[01:04:55] [Server thread/INFO]: silversote was slain by Sofx0Loder
-[01:05:17] [Server thread/INFO]: cambursote was slain by Tomii878
-[01:05:23] [Server thread/INFO]: Chupetechupado was slain by Tomii878
-[01:05:26] [Server thread/INFO]: silversote has made the advancement [Stone Age]
-[01:05:28] [Server thread/INFO]: silversote has made the advancement [Isn't It Iron Pick]
-[01:05:28] [Server thread/INFO]: Tomii878 has made the advancement [Suit Up]
-[01:05:33] [Server thread/INFO]: cambursote has made the advancement [Acquire Hardware]
-[01:06:44] [Async Chat Thread - #35/INFO]: [Not Secure] <Matthorox> leo
-[01:06:47] [Async Chat Thread - #35/INFO]: [Not Secure] <Matthorox> reinicia porfa
-[01:06:53] [Async Chat Thread - #35/INFO]: [Not Secure] <Matthorox> para eso del nether
-[01:06:57] [Async Chat Thread - #35/INFO]: [Not Secure] <cambursote> quitenle el admin a los tipos
-[01:07:00] [Async Chat Thread - #35/INFO]: [Not Secure] <cambursote> todos vanilla
-[01:07:03] [Async Chat Thread - #35/INFO]: [Not Secure] <cambursote> solo admin leo
-[01:07:09] [Async Chat Thread - #35/INFO]: [Not Secure] <Sofx0Loder> voy
-[01:07:10] [Server thread/INFO]: Sofx0Loder issued server command: /stop
-[01:07:10] [Server thread/INFO]: [Sofx0Loder: Stopping the server]
-[01:07:10] [Server thread/INFO]: Stopping server
-[01:07:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
-[01:07:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.16+cbf4bd5
-[01:07:10] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[01:07:10] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.35
-[01:07:10] [Server thread/INFO]: Saving players
-[01:07:10] [Server thread/INFO]: Matthorox lost connection: Server closed
-[01:07:10] [Server thread/INFO]: Matthorox left the game
-[01:07:10] [Server thread/INFO]: rx7fcm3 lost connection: Server closed
-[01:07:10] [Server thread/INFO]: rx7fcm3 left the game
-[01:07:10] [Server thread/INFO]: Sofx0Loder lost connection: Server closed
-[01:07:10] [Server thread/INFO]: Sofx0Loder left the game
-[01:07:10] [Server thread/INFO]: Tomii878 lost connection: Server closed
-[01:07:10] [Server thread/INFO]: Tomii878 left the game
-[01:07:10] [Server thread/INFO]: silversote lost connection: Server closed
-[01:07:10] [Server thread/INFO]: silversote left the game
-[01:07:10] [Server thread/INFO]: cambursote lost connection: Server closed
-[01:07:10] [Server thread/INFO]: cambursote left the game
-[01:07:10] [Server thread/INFO]: Chupetechupado lost connection: Server closed
-[01:07:10] [Server thread/INFO]: Chupetechupado left the game
-[01:07:10] [Server thread/INFO]: Saving worlds
-[01:07:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city]'/minecraft:overworld
-[01:07:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city'
-[01:07:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city'
-[01:07:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city'
-[01:07:14] [Server thread/INFO]: [ChunkHolderManager] Saved 2347 block chunks, 2627 entity chunks, 4 poi chunks in world 'city' in 3.86s
-[01:07:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city'
-[01:07:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city'
-[01:07:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city_the_end]'/minecraft:the_end
-[01:07:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city_the_end'
-[01:07:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city_the_end'
-[01:07:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city_the_end'
-[01:07:15] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'city_the_end' in 0.20s
-[01:07:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city_the_end'
-[01:07:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city_the_end'
-[01:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (city): All chunks are saved
-[01:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:07:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:07:15] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[01:07:15] [Server thread/INFO]: All I/O tasks to complete
-[01:07:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:07:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[04:10:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[04:10:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
+[04:10:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:10:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[04:10:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - SkinsRestorer (15.7.8), WorldEdit (7.3.16+cbf4bd5), voicechat (2.5.35)
+[04:10:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:10:55] [ServerMain/INFO]: Loaded 1370 recipes
+[04:10:55] [ServerMain/INFO]: Loaded 1481 advancements
+[04:10:55] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[04:10:55] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 228.7ms
+[04:10:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[04:10:55] [Server thread/INFO]: Loading properties
+[04:10:55] [Server thread/INFO]: This server is running Paper version 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[04:10:55] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:10:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:10:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:10:56] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:10:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:10:57] [Server thread/INFO]: Default game type: SURVIVAL
+[04:10:57] [Server thread/INFO]: Generating keypair
+[04:10:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:10:57] [Server thread/INFO]: Using epoll channel type
+[04:10:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:10:57] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[04:10:57] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
+[04:10:57] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.16+cbf4bd5
+[04:10:58] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@16783e75]
+[04:10:58] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[04:10:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:10:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.16+cbf4bd5
+[04:10:58] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[04:10:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:10:58] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[04:11:00] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[04:11:00] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[04:11:01] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:11:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:11:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:11:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:11:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:11:01] [Server thread/INFO]: Preparing level "city"
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:11:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:11:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:11:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[04:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[04:11:03] [Server thread/INFO]: Time elapsed: 1075 ms
+[04:11:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[04:11:03] [Server thread/INFO]: Time elapsed: 264 ms
+[04:11:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[04:11:03] [Server thread/INFO]: Time elapsed: 145 ms
+[04:11:03] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
+[04:11:03] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.4-R0.1
+[04:11:03] [Server thread/INFO]: [voicechat] Compatibility version 18
+[04:11:03] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[04:11:04] [Server thread/INFO]: [spark] Starting background profiler...
+[04:11:04] [Server thread/INFO]: Done preparing level "city" (3.140s)
+[04:11:04] [Server thread/INFO]: Running delayed init tasks
+[04:11:04] [Server thread/INFO]: Done (17.250s)! For help, type "help"
+[04:11:04] [Server thread/INFO]: [voicechat] Loading plugins
+[04:11:04] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[04:11:04] [Server thread/INFO]: [voicechat] Initializing plugins
+[04:11:04] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[04:11:04] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04:11:04] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '147.185.221.30:4522'
+[04:11:04] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 4522
+[04:11:04] [User Authenticator #0/INFO]: UUID of player Tomii878 is 393db7a1-7bf1-3575-ae12-b11aaef45ab6
+[04:11:05] [Server thread/INFO]: Tomii878 joined the game
+[04:11:05] [Server thread/INFO]: Tomii878[/127.120.71.228:57515] logged in with entity id 159 at ([city_nether]64.60379315934792, 75.25521960176278, -44.24174290186873)
+[04:11:07] [User Authenticator #0/INFO]: UUID of player silversote is 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[04:11:08] [Server thread/INFO]: silversote joined the game
+[04:11:08] [Server thread/INFO]: silversote[/127.13.177.154:48021] logged in with entity id 232 at ([city]-19.42958983015774, 79.16610926093821, 17.28074750591118)
+[04:11:08] [Server thread/INFO]: [voicechat] Received secret request of silversote (18)
+[04:11:08] [Server thread/INFO]: [voicechat] Sent secret to silversote
+[04:11:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[04:11:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[04:11:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player silversote (0e8951b6-6c65-3ce6-8052-0aa8d3cb9143) successfully connected to voice chat
+[04:11:11] [User Authenticator #0/INFO]: UUID of player REDgamer00 is 0be70140-54c4-30c2-acda-729595b0696a
+[04:11:13] [Server thread/INFO]: REDgamer00 joined the game
+[04:11:13] [Server thread/INFO]: REDgamer00[/127.209.35.201:39229] logged in with entity id 383 at ([city]-78.71097937383266, -40.0, -62.46640043388496)
+[04:11:20] [User Authenticator #0/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:11:21] [Server thread/INFO]: cambursote joined the game
+[04:11:21] [Server thread/INFO]: cambursote[/127.86.249.102:47221] logged in with entity id 610 at ([city]-16.07499998807907, 83.0, 8.148611837628945)
+[04:11:22] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[04:11:22] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[04:11:22] [User Authenticator #0/INFO]: UUID of player Durmiente_Lunar is da7c8efe-b762-36a4-953f-e0fece2e2dc3
+[04:11:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:11:23] [Server thread/INFO]: Durmiente_Lunar joined the game
+[04:11:23] [Server thread/INFO]: Durmiente_Lunar[/127.3.91.187:60133] logged in with entity id 645 at ([city]-20.380711184583394, -56.0, 5.673986096933224)
+[04:11:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:11:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[04:11:24] [User Authenticator #0/INFO]: UUID of player Sofx0Loder is cf29b5c6-0b9d-3984-a750-655110aa4d25
+[04:11:25] [Server thread/INFO]: Sofx0Loder joined the game
+[04:11:25] [Server thread/INFO]: Sofx0Loder[/127.243.140.153:54575] logged in with entity id 706 at ([city]-22.896633242959595, 103.40193262194568, 69.56615606336881)
+[04:11:26] [Server thread/INFO]: [voicechat] Received secret request of Sofx0Loder (18)
+[04:11:26] [Server thread/INFO]: [voicechat] Sent secret to Sofx0Loder
+[04:11:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[04:11:26] [Server thread/INFO]: cambursote lost connection: Disconnected
+[04:11:26] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
+[04:11:26] [Server thread/INFO]: cambursote left the game
+[04:11:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[04:11:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[04:11:37] [User Authenticator #0/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:11:37] [Server thread/INFO]: Sofx0Loder issued server command: /give @p minecraft:command_block
+[04:11:37] [Server thread/INFO]: [Sofx0Loder: Gave 1 [Command Block] to Sofx0Loder]
+[04:11:37] [Server thread/INFO]: cambursote joined the game
+[04:11:37] [Server thread/INFO]: cambursote[/127.86.249.102:52669] logged in with entity id 983 at ([city]-18.35670519673977, 84.0, 6.594374558768171)
+[04:11:38] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[04:11:38] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[04:11:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:11:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:11:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[04:11:45] [Server thread/INFO]: cambursote was slain by silversote
+[04:11:57] [Server thread/INFO]: silversote was slain by cambursote
+[04:13:05] [Server thread/INFO]: silversote was slain by cambursote
+[04:13:32] [Server thread/INFO]: silversote was slain by cambursote
+[04:13:57] [Server thread/INFO]: silversote was slain by cambursote
+[04:14:05] [Server thread/INFO]: Sofx0Loder issued server command: /gamerule doImmediateRespawn true
+[04:14:05] [Server thread/INFO]: [Sofx0Loder: Gamerule doImmediateRespawn is now set to: true]
+[04:14:16] [Server thread/INFO]: silversote hit the ground too hard while trying to escape cambursote
+[04:14:19] [Server thread/INFO]: cambursote lost connection: Disconnected
+[04:14:19] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
+[04:14:19] [Server thread/INFO]: cambursote left the game
+[04:16:31] [Server thread/INFO]: Sofx0Loder issued server command: /give Sofx0Loder stick[minecraft:can_break=
+[04:16:41] [Server thread/INFO]: Sofx0Loder issued server command: /give Sofx0Loder stick[minecraft:enchantments=
+[04:16:50] [Server thread/INFO]: Sofx0Loder issued server command: /give @p stick[enchantments={levels:{‘minecraft:knockback’:255},show_in_tooltip:true}]
+[04:17:14] [Server thread/INFO]: Sofx0Loder issued server command: /enchant Sofx0Loder minecraft:knockback
+[04:17:17] [Server thread/INFO]: Sofx0Loder issued server command: /enchant Sofx0Loder minecraft:knockback
+[04:17:46] [User Authenticator #1/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:17:46] [Server thread/INFO]: cambursote joined the game
+[04:17:46] [Server thread/INFO]: cambursote[/127.86.249.102:43005] logged in with entity id 3999 at ([city]-17.546785118302306, 93.67647087614428, -28.688388792099122)
+[04:17:47] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[04:17:47] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[04:17:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:17:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:17:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[04:18:11] [Server thread/INFO]: cambursote was smashed by Sofx0Loder
+[04:18:12] [Async Chat Thread - #0/INFO]: [Not Secure] <REDgamer00> tptptptp
+[04:18:17] [Async Chat Thread - #0/INFO]: [Not Secure] <REDgamer00> porfaaaaa
+[04:19:07] [Server thread/INFO]: cambursote was slain by silversote
+[04:19:34] [Server thread/INFO]: Sofx0Loder issued server command: /enchant Sofx0Loder minecraft:knockback 255
+[04:19:38] [Server thread/INFO]: Sofx0Loder issued server command: /enchant Sofx0Loder minecraft:knockback 2
+[04:19:59] [Server thread/INFO]: cambursote was slain by silversote
+[04:20:26] [Server thread/INFO]: Sofx0Loder has made the advancement [Take Aim]
+[04:20:35] [Server thread/INFO]: cambursote was shot by Sofx0Loder
+[04:20:48] [Server thread/INFO]: cambursote was slain by silversote
+[04:21:39] [Server thread/INFO]: Sofx0Loder issued server command: /tp cambursote Sofx0Loder
+[04:21:39] [Server thread/INFO]: [Sofx0Loder: Teleported cambursote to Sofx0Loder]
+[04:21:57] [Server thread/INFO]: cambursote was doomed to fall by Sofx0Loder
+[04:22:04] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:22:04] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:22:13] [Server thread/INFO]: cambursote was slain by silversote
+[04:22:30] [Server thread/INFO]: cambursote was slain by silversote
+[04:22:37] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:22:37] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:22:50] [Server thread/INFO]: cambursote fell from a high place
+[04:22:59] [Server thread/INFO]: cambursote fell from a high place
+[04:23:04] [Server thread/INFO]: cambursote fell from a high place
+[04:23:09] [Server thread/INFO]: cambursote fell from a high place
+[04:23:15] [Server thread/INFO]: cambursote fell from a high place
+[04:23:21] [Server thread/INFO]: cambursote fell from a high place
+[04:23:25] [Server thread/INFO]: cambursote fell from a high place
+[04:23:31] [Server thread/INFO]: cambursote fell from a high place
+[04:23:36] [Server thread/INFO]: cambursote fell from a high place
+[04:23:45] [Server thread/INFO]: cambursote was doomed to fall by silversote
+[04:23:51] [Server thread/INFO]: cambursote fell from a high place
+[04:23:56] [Server thread/INFO]: cambursote fell from a high place
+[04:24:01] [Server thread/INFO]: cambursote fell from a high place
+[04:24:06] [Server thread/INFO]: cambursote was doomed to fall by Sofx0Loder
+[04:24:11] [Server thread/INFO]: cambursote fell from a high place
+[04:24:29] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[04:24:29] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to silversote]
+[04:24:31] [Server thread/INFO]: cambursote tried to swim in lava
+[04:24:40] [Server thread/INFO]: cambursote lost connection: Disconnected
+[04:24:40] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
+[04:24:40] [Server thread/INFO]: cambursote left the game
+[04:24:44] [User Authenticator #2/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:24:45] [Server thread/INFO]: cambursote joined the game
+[04:24:45] [Server thread/INFO]: cambursote[/127.86.249.102:33155] logged in with entity id 6413 at ([city]-19.015992223603348, 80.40739540236494, 12.318532769288796)
+[04:24:45] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[04:24:45] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[04:24:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:24:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:24:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[04:24:51] [Server thread/INFO]: cambursote was shot by Sofx0Loder
+[04:25:12] [Server thread/INFO]: cambursote was shot by Sofx0Loder
+[04:25:39] [Server thread/INFO]: cambursote lost connection: Disconnected
+[04:25:39] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
+[04:25:39] [Server thread/INFO]: cambursote left the game
+[04:26:42] [Server thread/INFO]: Durmiente_Lunar was shot by Sofx0Loder
+[04:27:02] [Server thread/INFO]: Sofx0Loder issued server command: /tp Durmiente_Lunar Sofx0Loder
+[04:27:02] [Server thread/INFO]: [Sofx0Loder: Teleported Durmiente_Lunar to Sofx0Loder]
+[04:27:11] [Server thread/INFO]: Sofx0Loder issued server command: /xp set Durmiente_Lunar 23 levels
+[04:27:11] [Server thread/INFO]: [Sofx0Loder: Set 23 experience levels on Durmiente_Lunar]
+[04:27:36] [Server thread/INFO]: REDgamer00 has made the advancement [Glow and Behold!]
+[04:27:43] [Server thread/INFO]: Sofx0Loder issued server command: /weather rain
+[04:27:43] [Server thread/INFO]: [Sofx0Loder: Set the weather to rain]
+[04:28:42] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[04:28:42] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to silversote]
+[04:28:58] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[04:28:58] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to silversote]
+[04:29:18] [Server thread/INFO]: Sofx0Loder issued server command: /tp c
+[04:29:26] [Server thread/INFO]: Sofx0Loder issued server command: /tp Tomii878
+[04:29:26] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Tomii878]
+[04:29:42] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:29:42] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:29:54] [Server thread/INFO]: silversote burned to death
+[04:30:01] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:30:01] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:30:24] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[04:30:24] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to silversote]
+[04:32:05] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:32:05] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:32:08] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:32:08] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:32:15] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:32:15] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:32:18] [Server thread/INFO]: silversote burned to death
+[04:32:22] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[04:32:22] [Server thread/INFO]: [Sofx0Loder: Teleported silversote to Sofx0Loder]
+[04:32:33] [Server thread/INFO]: REDgamer00 has made the advancement [Not Today, Thank You]
+[04:33:03] [Server thread/INFO]: Sofx0Loder issued server command: /tp REDgamer00 Sofx0Loder
+[04:33:03] [Server thread/INFO]: [Sofx0Loder: Teleported REDgamer00 to Sofx0Loder]
+[04:33:07] [Server thread/INFO]: Sofx0Loder issued server command: /tp REDgamer00 Sofx0Loder
+[04:33:07] [Server thread/INFO]: [Sofx0Loder: Teleported REDgamer00 to Sofx0Loder]
+[04:33:12] [Server thread/INFO]: Sofx0Loder issued server command: /tp REDgamer00 Sofx0Loder
+[04:33:12] [Server thread/INFO]: [Sofx0Loder: Teleported REDgamer00 to Sofx0Loder]
+[04:33:20] [Server thread/INFO]: Sofx0Loder issued server command: /tp REDgamer00 Sofx0Loder
+[04:33:20] [Server thread/INFO]: [Sofx0Loder: Teleported REDgamer00 to Sofx0Loder]
+[04:33:41] [Server thread/INFO]: silversote has made the advancement [Hidden in the Depths]
+[04:33:48] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives add LVL
+[04:33:52] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives add LVL level
+[04:33:52] [Server thread/INFO]: [Sofx0Loder: Created new objective [LVL]]
+[04:34:02] [Server thread/INFO]: Sofx0Loder issued server command: /scoreboard objectives setdisplay below_name LVL
+[04:34:02] [Server thread/INFO]: [Sofx0Loder: Set display slot below_name to show objective LVL]
+[04:34:31] [Server thread/INFO]: Sofx0Loder issued server command: /xp add REDgamer00 1 levels
+[04:34:31] [Server thread/INFO]: [Sofx0Loder: Gave 1 experience levels to REDgamer00]
+[04:35:47] [Server thread/INFO]: Sofx0Loder issued server command: /tp REDgamer00 Sofx0Loder
+[04:35:47] [Server thread/INFO]: [Sofx0Loder: Teleported REDgamer00 to Sofx0Loder]
+[04:35:56] [Server thread/INFO]: REDgamer00 lost connection: Disconnected
+[04:35:56] [Server thread/INFO]: [voicechat] Disconnecting client REDgamer00
+[04:35:56] [Server thread/INFO]: REDgamer00 left the game
+[04:35:58] [User Authenticator #3/INFO]: UUID of player REDgamer00 is 0be70140-54c4-30c2-acda-729595b0696a
+[04:35:59] [Server thread/INFO]: REDgamer00 joined the game
+[04:35:59] [Server thread/INFO]: REDgamer00[/127.209.35.201:48855] logged in with entity id 11672 at ([city]-13.236989596610256, 111.49458508872304, 9.06090225120566)
+[04:36:01] [Server thread/INFO]: REDgamer00 lost connection: Disconnected
+[04:36:01] [Server thread/INFO]: [voicechat] Disconnecting client REDgamer00
+[04:36:01] [Server thread/INFO]: REDgamer00 left the game
+[04:36:03] [User Authenticator #3/INFO]: UUID of player REDgamer00 is 0be70140-54c4-30c2-acda-729595b0696a
+[04:36:04] [Server thread/INFO]: REDgamer00 joined the game
+[04:36:04] [Server thread/INFO]: REDgamer00[/127.209.35.201:45959] logged in with entity id 11723 at ([city]-13.236989596610256, 92.67237385639223, 9.06090225120566)
+[04:36:06] [Server thread/INFO]: REDgamer00 fell from a high place
+[04:36:23] [Server thread/INFO]: Sofx0Loder issued server command: /xp set REDgamer00 57 levels
+[04:36:23] [Server thread/INFO]: [Sofx0Loder: Set 57 experience levels on REDgamer00]
+[04:36:30] [Server thread/INFO]: REDgamer00 fell from a high place
+[04:37:07] [Server thread/INFO]: Sofx0Loder issued server command: /tp Durmiente_Lunar
+[04:37:07] [Server thread/INFO]: [Sofx0Loder: Teleported Sofx0Loder to Durmiente_Lunar]
+[04:37:23] [Server thread/INFO]: Sofx0Loder issued server command: /xp add Durmiente_Lunar 1 levels
+[04:37:23] [Server thread/INFO]: [Sofx0Loder: Gave 1 experience levels to Durmiente_Lunar]
+[04:38:20] [Server thread/INFO]: Durmiente_Lunar was smashed by Sofx0Loder
+[04:38:26] [Server thread/INFO]: Sofx0Loder issued server command: /tp Durmiente_Lunar Sofx0Loder
+[04:38:26] [Server thread/INFO]: [Sofx0Loder: Teleported Durmiente_Lunar to Sofx0Loder]
+[04:38:32] [Server thread/INFO]: Sofx0Loder issued server command: /xp add Durmiente_Lunar 24 levels
+[04:38:32] [Server thread/INFO]: [Sofx0Loder: Gave 24 experience levels to Durmiente_Lunar]
+[04:38:42] [Server thread/INFO]: Sofx0Loder lost connection: Disconnected
+[04:38:42] [Server thread/INFO]: [voicechat] Disconnecting client Sofx0Loder
+[04:38:42] [Server thread/INFO]: Sofx0Loder left the game
+[04:38:56] [Server thread/INFO]: REDgamer00 lost connection: Disconnected
+[04:38:56] [Server thread/INFO]: [voicechat] Disconnecting client REDgamer00
+[04:38:56] [Server thread/INFO]: REDgamer00 left the game
+[04:39:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Tomii878> -2 76 6
+[04:41:06] [User Authenticator #4/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:41:07] [Server thread/INFO]: cambursote joined the game
+[04:41:07] [Server thread/INFO]: cambursote[/127.86.249.102:40517] logged in with entity id 14949 at ([city]-73.16920187510202, 87.0, 13.634445290972636)
+[04:41:08] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[04:41:08] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[04:41:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:41:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:41:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[04:41:27] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:42:46] [Server thread/INFO]: Tomii878 lost connection: Disconnected
+[04:42:46] [Server thread/INFO]: [voicechat] Disconnecting client Tomii878
+[04:42:46] [Server thread/INFO]: Tomii878 left the game
+[04:43:29] [Server thread/INFO]: cambursote was slain by Zombie
+[04:43:59] [Server thread/INFO]: cambursote has made the advancement [A Seedy Place]
+[04:44:13] [Server thread/INFO]: cambursote has made the advancement [Sweet Dreams]
+[04:44:32] [Server thread/INFO]: cambursote was slain by Zombie
+[04:46:15] [User Authenticator #5/INFO]: UUID of player Tomii878 is 393db7a1-7bf1-3575-ae12-b11aaef45ab6
+[04:46:16] [Server thread/INFO]: Tomii878 joined the game
+[04:46:16] [Server thread/INFO]: Tomii878[/127.120.71.228:57943] logged in with entity id 17363 at ([city]-10.699999988079071, 78.0, 18.92423928892248)
+[04:47:24] [Server thread/INFO]: cambursote lost connection: Disconnected
+[04:47:24] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
+[04:47:24] [Server thread/INFO]: cambursote left the game
+[04:47:37] [User Authenticator #6/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:47:37] [Server thread/INFO]: cambursote joined the game
+[04:47:37] [Server thread/INFO]: cambursote[/127.86.249.102:36723] logged in with entity id 17574 at ([city]-8.677420396238817, 80.0, 14.750202963148034)
+[04:47:38] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[04:47:38] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[04:47:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[04:47:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[04:47:42] [Server thread/INFO]: cambursote was slain by silversote
+[04:50:27] [Server thread/INFO]: cambursote fell from a high place
+[04:50:35] [Server thread/INFO]: cambursote was slain by Durmiente_Lunar
+[04:50:43] [Server thread/INFO]: Tomii878 has made the advancement [Local Brewery]
+[04:50:59] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:51:05] [Server thread/INFO]: cambursote was slain by silversote
+[04:51:08] [Server thread/INFO]: cambursote was slain by silversote
+[04:51:10] [Server thread/INFO]: cambursote was slain by silversote
+[04:51:13] [Server thread/INFO]: cambursote was slain by silversote
+[04:51:16] [Server thread/INFO]: cambursote was slain by silversote
+[04:51:18] [Server thread/INFO]: cambursote was slain by silversote
+[04:51:53] [Server thread/INFO]: cambursote was shot by Skeleton
+[04:51:59] [Server thread/INFO]: cambursote was slain by silversote
+[04:52:06] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:52:25] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:52:28] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:52:29] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:52:31] [Server thread/INFO]: cambursote was slain by Tomii878
+[04:52:32] [Server thread/INFO]: Stopping the server
+[04:52:32] [Server thread/INFO]: Stopping server
+[04:52:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[04:52:32] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.16+cbf4bd5
+[04:52:32] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:52:32] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.35
+[04:52:32] [Server thread/INFO]: Saving players
+[04:52:32] [Server thread/INFO]: silversote lost connection: Server closed
+[04:52:32] [Server thread/INFO]: silversote left the game
+[04:52:32] [Server thread/INFO]: Durmiente_Lunar lost connection: Server closed
+[04:52:32] [Server thread/INFO]: Durmiente_Lunar left the game
+[04:52:32] [Server thread/INFO]: Tomii878 lost connection: Server closed
+[04:52:32] [Server thread/INFO]: Tomii878 left the game
+[04:52:32] [Server thread/INFO]: cambursote lost connection: Server closed
+[04:52:32] [Server thread/INFO]: cambursote left the game
+[04:52:33] [Server thread/INFO]: Saving worlds
+[04:52:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city]'/minecraft:overworld
+[04:52:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city'
+[04:52:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city'
+[04:52:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Saved 467 block chunks, 1209 entity chunks, 1 poi chunks in world 'city' in 0.94s
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city'
+[04:52:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city_nether]'/minecraft:the_nether
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city_nether'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city_nether'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city_nether'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Saved 25 block chunks, 83 entity chunks, 0 poi chunks in world 'city_nether' in 0.05s
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city_nether'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city_nether'
+[04:52:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city_the_end]'/minecraft:the_end
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city_the_end'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city_the_end'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city_the_end'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'city_the_end' in 0.00s
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city_the_end'
+[04:52:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city_the_end'
+[04:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (city): All chunks are saved
+[04:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:52:34] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[04:52:34] [Server thread/INFO]: All I/O tasks to complete
+[04:52:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:52:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
