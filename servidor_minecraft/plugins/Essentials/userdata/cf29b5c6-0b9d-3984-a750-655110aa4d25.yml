@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754932700335
+  logout: 1754935070855
   login: 1754932344731
 money: '0'
 last-account-name: Sofx0Loder
@@ -28,3 +28,11 @@ lastlocation:
   z: -23.5
   yaw: 71.09893798828125
   pitch: 20.100067138671875
+logoutlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -24.29679148264058
+  y: 149.60680802639507
+  z: 29.94095641153663
+  yaw: 175.33985900878906
+  pitch: 13.19996452331543

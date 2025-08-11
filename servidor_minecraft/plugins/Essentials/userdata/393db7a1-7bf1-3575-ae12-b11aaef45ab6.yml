@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.120.71.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754954480688
+  login: 1754954272110
+money: '0'
+last-account-name: Tomii878
+logoutlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -1.9798702857581065
+  y: 84.0
+  z: -8.012344270953982
+  yaw: 112.57745361328125
+  pitch: 12.004569053649902
