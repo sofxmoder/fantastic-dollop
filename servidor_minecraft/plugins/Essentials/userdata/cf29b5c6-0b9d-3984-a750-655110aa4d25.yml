@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1754932918492
   lastheal: 0
   mute: 0
   jail: 0
@@ -20,3 +20,11 @@ timestamps:
   login: 1754932344731
 money: '0'
 last-account-name: Sofx0Loder
+lastlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: 23.5
+  y: 87.0
+  z: -23.5
+  yaw: 71.09893798828125
+  pitch: 20.100067138671875

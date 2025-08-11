@@ -225,3 +225,27 @@ Caused by: java.lang.RuntimeException: No suitable protocol version found for: 1
 [17:20:01] [Server thread/INFO]: Sofx0Loder issued server command: /flyspeed 10
 [17:20:10] [Server thread/INFO]: Sofx0Loder issued server command: /flyspeed fly 10
 [17:20:16] [Server thread/INFO]: Sofx0Loder issued server command: /flyspeed fly 100
+[17:21:43] [Server thread/INFO]: Sofx0Loder issued server command: /jumpto
+[17:21:46] [Server thread/INFO]: Sofx0Loder issued server command: /jumpto
+[17:21:55] [Server thread/INFO]: Sofx0Loder issued server command: /jump
+[17:21:58] [Server thread/INFO]: Sofx0Loder issued server command: /jump
+[17:22:02] [Server thread/INFO]: Sofx0Loder issued server command: /jump lock
+[17:22:07] [Server thread/INFO]: Sofx0Loder issued server command: /jump lock
+[17:25:24] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode survival
+[17:25:37] [Server thread/INFO]: Sofx0Loder fell from a high place
+[17:26:05] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
+[17:26:54] [Server thread/INFO]: Sofx0Loder issued server command: /flyspeed walk
+[17:27:05] [Server thread/INFO]: Sofx0Loder issued server command: /flyspeed 1
+[17:27:11] [Server thread/INFO]: Sofx0Loder issued server command: /flyspeed fly 1
+[17:28:05] [Server thread/INFO]: Sofx0Loder issued server command: /clean
+[17:29:10] [Server thread/INFO]: Sofx0Loder issued server command: /hat
+[17:29:32] [Server thread/INFO]: Sofx0Loder issued server command: /lp creategroup }
+[17:29:32] [luckperms-command-executor/INFO]: [LP] LOG > (Sofx0Loder) [G] (})
+[17:29:32] [luckperms-command-executor/INFO]: [LP] LOG > create
+[17:29:35] [Server thread/INFO]: Sofx0Loder issued server command: /lp creategroup
+[17:29:49] [Server thread/INFO]: Sofx0Loder issued server command: /lp creategroup Owner
+[17:29:49] [luckperms-command-executor/INFO]: [LP] LOG > (Sofx0Loder) [G] (owner)
+[17:29:49] [luckperms-command-executor/INFO]: [LP] LOG > create
+[17:30:15] [Server thread/INFO]: Sofx0Loder issued server command: /setblock ~ ~ ~ minecraft:acacia_button
+[17:30:15] [Server thread/INFO]: [Sofx0Loder: Changed the block at 22, 109, -42]
+[17:31:48] [Server thread/INFO]: Sofx0Loder issued server command: /give Sofx0Loder debugstick
