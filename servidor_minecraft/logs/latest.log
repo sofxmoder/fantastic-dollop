@@ -258,3 +258,27 @@ Caused by: java.lang.RuntimeException: No suitable protocol version found for: 1
 [17:40:35] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode survival
 [17:41:06] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
 [17:41:40] [Server thread/INFO]: Sofx0Loder issued server command: /plugins
+[17:43:02] [Server thread/INFO]: Sofx0Loder issued server command: /setblock
+[17:43:04] [Server thread/INFO]: Sofx0Loder issued server command: /setblock ~ ~ ~ minecraft:acacia_button
+[17:43:04] [Server thread/INFO]: [Sofx0Loder: Changed the block at 32, 110, -30]
+[17:45:38] [Server thread/INFO]: Sofx0Loder issued server command: //center
+[17:45:41] [Server thread/INFO]: Sofx0Loder issued server command: //center stone
+[17:45:50] [Server thread/INFO]: Sofx0Loder issued server command: //undo
+[17:46:02] [Server thread/INFO]: Sofx0Loder issued server command: //copy
+[17:46:06] [Server thread/INFO]: Sofx0Loder issued server command: //cut
+[17:46:13] [Server thread/INFO]: Sofx0Loder issued server command: //paste
+[17:46:20] [Server thread/INFO]: Sofx0Loder issued server command: //udno
+[17:46:24] [Server thread/INFO]: Sofx0Loder issued server command: //undo
+[17:46:29] [Server thread/INFO]: Sofx0Loder issued server command: //paste
+[17:46:35] [Server thread/INFO]: Sofx0Loder issued server command: //undo
+[17:46:39] [Server thread/INFO]: Sofx0Loder issued server command: //paste
+[17:46:45] [Server thread/INFO]: Sofx0Loder issued server command: //undo
+[17:46:59] [Server thread/INFO]: Sofx0Loder issued server command: //paste
+[17:47:04] [Server thread/INFO]: Sofx0Loder issued server command: //undo
+[17:47:08] [Server thread/INFO]: Sofx0Loder issued server command: //paste
+[17:49:26] [Server thread/INFO]: Sofx0Loder issued server command: /lp editor groups
+[17:51:39] [Server thread/INFO]: Sofx0Loder issued server command: /lp group owner setdisplayname [{"text":"O","color":"red"},{"text":"W","color":"#be2f2f"},{"text":"N","color":"#7f1f1f"},{"text":"E","color":"#3f0f0f"},{"text":"R","color":"black"}]
+[17:51:39] [luckperms-command-executor/INFO]: [LP] LOG > (Sofx0Loder) [G] (owner)
+[17:51:39] [luckperms-command-executor/INFO]: [LP] LOG > setdisplayname [{"text":"O","color":"red"},{"text":"W","color":"#be2f2f"},{"text":"N","color":"#7f1f1f"},{"text":"E","color":"#3f0f0f"},{"text":"R","color":"black"}]
+[17:52:47] [Server thread/INFO]: Sofx0Loder issued server command: /lp group owner listmembers
+[17:52:51] [Server thread/INFO]: Sofx0Loder issued server command: /lp group owner
