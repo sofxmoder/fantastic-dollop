@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1754954261076
+  logout: 1754955089339
+  login: 1754955680626
 money: '0'
 last-account-name: silversote
+logoutlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -1123.3487906104024
+  y: 72.0
+  z: -1184.9235941254608
+  yaw: 45.162384033203125
+  pitch: 21.150033950805664

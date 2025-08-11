@@ -227,3 +227,37 @@ Caused by: java.lang.RuntimeException: No suitable protocol version found for: 1
 [23:21:20] [Server thread/INFO]: Tomii878 lost connection: Disconnected
 [23:21:20] [Server thread/INFO]: [voicechat] Disconnecting client Tomii878
 [23:21:20] [Server thread/INFO]: Tomii878 left the game
+[23:30:28] [User Authenticator #1/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[23:30:30] [Server thread/INFO]: cambursote joined the game
+[23:30:30] [Server thread/INFO]: cambursote[/127.86.249.102:43773] logged in with entity id 6711 at ([city]-16.862992305912076, 81.12160004615784, 11.300000011920929)
+[23:30:30] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[23:30:30] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[23:30:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[23:30:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[23:30:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[23:30:51] [Server thread/INFO]: cambursote was slain by Zombie
+[23:31:29] [Server thread/INFO]: silversote lost connection: Disconnected
+[23:31:29] [Server thread/INFO]: [voicechat] Disconnecting client silversote
+[23:31:29] [Server thread/INFO]: silversote left the game
+[23:41:20] [User Authenticator #2/INFO]: UUID of player silversote is 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[23:41:20] [Server thread/INFO]: silversote joined the game
+[23:41:20] [Server thread/INFO]: silversote[/127.13.177.154:59767] logged in with entity id 10230 at ([city]-1123.3487906104024, 72.0, -1184.9235941254608)
+[23:41:20] [Server thread/INFO]: [voicechat] Received secret request of silversote (18)
+[23:41:20] [Server thread/INFO]: [voicechat] Sent secret to silversote
+[23:41:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[23:41:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[23:41:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player silversote (0e8951b6-6c65-3ce6-8052-0aa8d3cb9143) successfully connected to voice chat
+[23:50:00] [User Authenticator #3/INFO]: UUID of player therealgrass is 3ffcf9a8-c1d2-3665-b39b-897a9638497a
+[23:50:01] [Server thread/INFO]: therealgrass joined the game
+[23:50:01] [Server thread/INFO]: therealgrass[/127.147.95.144:46125] logged in with entity id 20248 at ([city]199.30000001192093, 64.0, 154.8783993799212)
+[23:50:01] [Server thread/INFO]: [voicechat] Received secret request of therealgrass (18)
+[23:50:01] [Server thread/INFO]: [voicechat] Sent secret to therealgrass
+[23:50:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3ffcf9a8-c1d2-3665-b39b-897a9638497a
+[23:50:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3ffcf9a8-c1d2-3665-b39b-897a9638497a
+[23:50:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player therealgrass (3ffcf9a8-c1d2-3665-b39b-897a9638497a) successfully connected to voice chat
+[23:50:17] [Async Chat Thread - #0/INFO]: [Not Secure] <therealgrass> oda deditos
+[23:50:26] [Async Chat Thread - #0/INFO]: [Not Secure] <cambursote> te voy a chupar todo el culo nunanzito
+[23:50:30] [Async Chat Thread - #0/INFO]: [Not Secure] <therealgrass> nooooo
+[23:50:31] [Server thread/INFO]: therealgrass lost connection: Disconnected
+[23:50:31] [Server thread/INFO]: [voicechat] Disconnecting client therealgrass
+[23:50:31] [Server thread/INFO]: therealgrass left the game
