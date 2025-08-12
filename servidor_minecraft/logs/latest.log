@@ -3,3 +3,23 @@
 [00:09:49] [Server thread/INFO]: cambursote has made the advancement [Ice Bucket Challenge]
 [00:17:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Matthorox> -201 72 291
 [00:17:41] [Server thread/INFO]: cambursote has made the advancement [Not Today, Thank You]
+[00:21:07] [User Authenticator #5/INFO]: UUID of player Sofx0Loder is cf29b5c6-0b9d-3984-a750-655110aa4d25
+[00:21:08] [Server thread/INFO]: Sofx0Loder joined the game
+[00:21:08] [Server thread/INFO]: Sofx0Loder[/127.243.140.153:45515] logged in with entity id 32017 at ([city]-24.29679148264058, 149.60680802639507, 29.94095641153663)
+[00:21:08] [Server thread/INFO]: [voicechat] Received secret request of Sofx0Loder (18)
+[00:21:08] [Server thread/INFO]: [voicechat] Sent secret to Sofx0Loder
+[00:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[00:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[00:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[00:24:19] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[00:25:22] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:40] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:40] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:25:40] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
+[00:26:16] [Server thread/WARN]: Sofx0Loder moved too quickly! -6.957544933408599,-2.4335960664391507,-27.645116142901543
+[00:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
+[00:26:53] [Server thread/INFO]: Sofx0Loder issued server command: /hat

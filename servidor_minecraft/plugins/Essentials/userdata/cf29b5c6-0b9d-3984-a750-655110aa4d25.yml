@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754932918492
+  lastteleport: 1754958259914
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1754935070855
-  login: 1754932344731
+  login: 1754958068380
 money: '0'
 last-account-name: Sofx0Loder
 lastlocation:
   world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
   world-name: city
-  x: 23.5
-  y: 87.0
-  z: -23.5
-  yaw: 71.09893798828125
-  pitch: 20.100067138671875
+  x: -6.592927375026768
+  y: 98.67072511447559
+  z: 23.61304893898207
+  yaw: -169.80958557128906
+  pitch: 51.449928283691406
 logoutlocation:
   world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
   world-name: city
