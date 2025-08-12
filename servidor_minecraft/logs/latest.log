@@ -1,25 +1,354 @@
-[00:00:16] [Async Chat Thread - #2/INFO]: [Not Secure] <cambursote> gohan metete al vc
-[00:00:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Matthorox> voy
-[00:09:49] [Server thread/INFO]: cambursote has made the advancement [Ice Bucket Challenge]
-[00:17:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Matthorox> -201 72 291
-[00:17:41] [Server thread/INFO]: cambursote has made the advancement [Not Today, Thank You]
-[00:21:07] [User Authenticator #5/INFO]: UUID of player Sofx0Loder is cf29b5c6-0b9d-3984-a750-655110aa4d25
-[00:21:08] [Server thread/INFO]: Sofx0Loder joined the game
-[00:21:08] [Server thread/INFO]: Sofx0Loder[/127.243.140.153:45515] logged in with entity id 32017 at ([city]-24.29679148264058, 149.60680802639507, 29.94095641153663)
-[00:21:08] [Server thread/INFO]: [voicechat] Received secret request of Sofx0Loder (18)
-[00:21:08] [Server thread/INFO]: [voicechat] Sent secret to Sofx0Loder
-[00:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
-[00:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
-[00:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
-[00:24:19] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
-[00:25:22] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:39] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:40] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:40] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:25:40] [Server thread/INFO]: Sofx0Loder issued server command: /nuke
-[00:26:16] [Server thread/WARN]: Sofx0Loder moved too quickly! -6.957544933408599,-2.4335960664391507,-27.645116142901543
-[00:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
-[00:26:53] [Server thread/INFO]: Sofx0Loder issued server command: /hat
+[00:33:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[00:33:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
+[00:33:26] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:33:27] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[00:33:30] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2713ms.
+[00:33:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[00:33:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - Essentials (2.21.2), LuckPerms (5.5.10), SkinsRestorer (15.7.9), StaffPlusPlus (1.21.9), WorldEdit (7.3.16+cbf4bd5), voicechat (2.5.35)
+[00:33:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:33:36] [ServerMain/INFO]: Loaded 1370 recipes
+[00:33:36] [ServerMain/INFO]: Loaded 1481 advancements
+[00:33:37] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[00:33:37] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 271.1ms
+[00:33:37] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:33:37] [Server thread/INFO]: Loading properties
+[00:33:37] [Server thread/INFO]: This server is running Paper version 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[00:33:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:33:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:33:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:33:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:33:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:33:39] [Server thread/INFO]: Default game type: SURVIVAL
+[00:33:39] [Server thread/INFO]: Generating keypair
+[00:33:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:33:39] [Server thread/INFO]: Using epoll channel type
+[00:33:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:33:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:33:39] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.10
+[00:33:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:33:40] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
+[00:33:40] [Server thread/INFO]: [StaffPlusPlus] Loading server plugin StaffPlusPlus v1.21.9
+[00:33:40] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.16+cbf4bd5
+[00:33:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6517e003]
+[00:33:40] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[00:33:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[00:33:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:33:40] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.10
+[00:33:41] [Server thread/INFO]:         __    
+[00:33:41] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[00:33:41] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:33:41] [Server thread/INFO]: 
+[00:33:41] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:33:41] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:33:41] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:33:42] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1152ms)
+[00:33:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.16+cbf4bd5
+[00:33:42] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:33:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:33:42] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[00:33:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[00:33:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[00:33:45] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:33:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:33:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:33:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:33:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:33:45] [Server thread/INFO]: Preparing level "city"
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:33:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:33:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:33:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:47] [Server thread/INFO]: Preparing spawn area: 2%
+[00:33:47] [Server thread/INFO]: Time elapsed: 774 ms
+[00:33:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:33:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:47] [Server thread/INFO]: Preparing spawn area: 2%
+[00:33:47] [Server thread/INFO]: Time elapsed: 586 ms
+[00:33:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:33:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:48] [Server thread/INFO]: Time elapsed: 231 ms
+[00:33:48] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
+[00:33:48] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.4-R0.1
+[00:33:48] [Server thread/INFO]: [voicechat] Compatibility version 18
+[00:33:48] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[00:33:48] [Server thread/INFO]: [StaffPlusPlus] Enabling StaffPlusPlus v1.21.9
+[00:33:52] [Server thread/INFO]: [StaffPlusPlus] Using SQLITE storage
+[00:33:52] [Server thread/ERROR]: Error occurred while enabling StaffPlusPlus v1.21.9 (Is it up to date?)
+net.shortninja.staffplus.core.be.garagepoort.mcioc.IocException: Mc-Ioc bean exception: [Cannot instantiate bean with type net.shortninja.staffplus.core.common.JsonSenderService.]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.createBean(IocContainer.java:241) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.instantiateBean(IocContainer.java:203) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.buildParams(IocContainer.java:304) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.createBean(IocContainer.java:231) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.instantiateBean(IocContainer.java:203) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.buildParams(IocContainer.java:304) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.createBean(IocContainer.java:231) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.instantiateBean(IocContainer.java:135) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.loadIocBeans(IocContainer.java:99) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.init(IocContainer.java:54) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.TubingPlugin.initIocContainer(TubingPlugin.java:23) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.tubingbukkit.TubingBukkitPlugin.onEnable(TubingBukkitPlugin.java:25) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:658) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:322) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1163) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.createBean(IocContainer.java:235) ~[staffplusplus-core-1.21.9.jar:?]
+	... 23 more
+Caused by: java.lang.RuntimeException: No suitable protocol version found for: 1.21.4-R0.1-SNAPSHOT. Are you sure this version of minecraft is supported?
+	at staffplusplus-core-1.21.9.jar/be.garagepoort.staffplusplus.craftbukkit.api.JsonSenderFactory.getSender(JsonSenderFactory.java:42) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.common.JsonSenderService.<init>(JsonSenderService.java:17) ~[staffplusplus-core-1.21.9.jar:?]
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.IocContainer.createBean(IocContainer.java:235) ~[staffplusplus-core-1.21.9.jar:?]
+	... 23 more
+[00:33:52] [Server thread/INFO]: [StaffPlusPlus] Disabling StaffPlusPlus v1.21.9
+[00:33:52] [Server thread/INFO]: [StaffPlusPlus] Staff++ is now disabling!
+[00:33:52] [Server thread/INFO]: [StaffPlusPlus] Staff++ disabled!
+[00:33:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[00:33:53] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:33:53] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:33:53] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:33:53] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[00:33:53] [Server thread/INFO]: [Essentials] Using locale en
+[00:33:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:33:54] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:33:54] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[00:33:54] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[00:33:54] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[00:33:54] [Server thread/INFO]: [spark] Starting background profiler...
+[00:33:55] [Server thread/INFO]: Done preparing level "city" (9.807s)
+[00:33:55] [Server thread/INFO]: Running delayed init tasks
+[00:33:55] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:33:55] [Server thread/INFO]: Done (29.435s)! For help, type "help"
+[00:33:55] [Server thread/INFO]: [voicechat] Loading plugins
+[00:33:55] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[00:33:55] [Server thread/INFO]: [voicechat] Initializing plugins
+[00:33:55] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[00:33:55] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[00:33:55] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '147.185.221.30:4522'
+[00:33:55] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 4522
+[00:33:57] [User Authenticator #0/INFO]: UUID of player Sofx0Loder is cf29b5c6-0b9d-3984-a750-655110aa4d25
+[00:33:57] [User Authenticator #0/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[00:33:58] [Server thread/INFO]: cambursote joined the game
+[00:33:58] [Server thread/INFO]: cambursote[/127.86.249.102:35487] logged in with entity id 19 at ([city]-1610.8703091450946, 71.87208890136314, 218.59123870434212)
+[00:33:58] [Server thread/INFO]: Sofx0Loder joined the game
+[00:33:58] [Server thread/INFO]: Sofx0Loder[/127.243.140.153:60879] logged in with entity id 18 at ([city]-1621.471892877439, 54.60643715774569, 228.30000001192093)
+[00:33:58] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[00:33:58] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[00:33:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[00:33:59] [Server thread/INFO]: [voicechat] Received secret request of Sofx0Loder (18)
+[00:33:59] [Server thread/INFO]: [voicechat] Sent secret to Sofx0Loder
+[00:33:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[00:34:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[00:34:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[00:34:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[00:34:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[00:34:10] [User Authenticator #0/INFO]: UUID of player silversote is 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[00:34:10] [Server thread/INFO]: silversote joined the game
+[00:34:10] [Server thread/INFO]: silversote[/127.13.177.154:57161] logged in with entity id 300 at ([city]-1619.9822885111364, 72.89107267724488, 212.5226792230586)
+[00:34:10] [Server thread/INFO]: [voicechat] Received secret request of silversote (18)
+[00:34:10] [Server thread/INFO]: [voicechat] Sent secret to silversote
+[00:34:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[00:34:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0e8951b6-6c65-3ce6-8052-0aa8d3cb9143
+[00:34:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player silversote (0e8951b6-6c65-3ce6-8052-0aa8d3cb9143) successfully connected to voice chat
+[00:34:22] [User Authenticator #0/INFO]: UUID of player Matthorox is 7c0e89d0-b350-3314-926b-153fa7dd5244
+[00:34:23] [Server thread/INFO]: Matthorox joined the game
+[00:34:23] [Server thread/INFO]: Matthorox[/127.172.165.197:40695] logged in with entity id 372 at ([city]-1616.484072887082, 72.24947197770308, 235.81553138098965)
+[00:34:23] [Server thread/INFO]: [voicechat] Received secret request of Matthorox (18)
+[00:34:23] [Server thread/INFO]: [voicechat] Sent secret to Matthorox
+[00:34:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7c0e89d0-b350-3314-926b-153fa7dd5244
+[00:34:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7c0e89d0-b350-3314-926b-153fa7dd5244
+[00:34:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Matthorox (7c0e89d0-b350-3314-926b-153fa7dd5244) successfully connected to voice chat
+[00:35:01] [Server thread/INFO]: Sofx0Loder issued server command: /enchant sharpness 2
+[00:35:15] [Server thread/INFO]: Sofx0Loder issued server command: /enchant efficiency 3
+[00:35:51] [Server thread/INFO]: Sofx0Loder has made the advancement [Cover Me with Diamonds]
+[00:36:00] [Server thread/INFO]: Sofx0Loder issued server command: /enchant protection 3
+[00:36:55] [Server thread/INFO]: silversote was smashed by Sofx0Loder
+[00:38:19] [Server thread/INFO]: Sofx0Loder issued server command: /enchant sharpness 2
+[00:38:22] [Server thread/INFO]: Sofx0Loder issued server command: /enchant sharpness 3
+[00:38:37] [Server thread/INFO]: Sofx0Loder issued server command: /enchant punch 2
+[00:38:43] [Server thread/INFO]: Sofx0Loder issued server command: /enchant punch 2
+[00:39:02] [Server thread/INFO]: Sofx0Loder issued server command: /enchant knockback 2
+[00:39:41] [Server thread/INFO]: Sofx0Loder issued server command: /xp set Matthorox 30
+[00:39:43] [Server thread/INFO]: Sofx0Loder issued server command: /xp set Matthorox 30l
+[00:40:04] [Server thread/INFO]: Sofx0Loder issued server command: /xp set silversote 25l
+[00:40:34] [Server thread/INFO]: Sofx0Loder issued server command: /vanish
+[00:41:24] [Server thread/INFO]: Sofx0Loder issued server command: /vanish
+[00:42:17] [Server thread/INFO]: Sofx0Loder issued server command: /setblock
+[00:42:19] [Server thread/INFO]: Sofx0Loder issued server command: /setblock ~ ~ ~ minecraft:acacia_button
+[00:42:19] [Server thread/INFO]: [Sofx0Loder: Changed the block at -1618, 80, 222]
+[00:42:26] [Server thread/INFO]: Sofx0Loder issued server command: /give Sofx0Loder barrier
+[00:42:57] [Server thread/INFO]: Sofx0Loder issued server command: /setjail
+[00:43:11] [Server thread/INFO]: Sofx0Loder issued server command: /setjail jeje
+[00:43:16] [Server thread/INFO]: Sofx0Loder issued server command: /jail silversote
+[00:43:16] [Server thread/INFO]: [Essentials] Player silversote jailed by Sofx0Loder.
+[00:43:18] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode spectator
+[00:43:20] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
+[00:43:35] [Server thread/INFO]: Sofx0Loder issued server command: /jail cambursote
+[00:43:35] [Server thread/INFO]: [Essentials] Player cambursote jailed by Sofx0Loder.
+[00:44:02] [Server thread/INFO]: Sofx0Loder issued server command: /jail Matthorox
+[00:44:02] [Server thread/INFO]: [Essentials] Player Matthorox jailed by Sofx0Loder.
+[00:44:22] [Server thread/INFO]: Matthorox was slain by silversote
+[00:44:33] [Server thread/INFO]: Sofx0Loder issued server command: /tp Matthorox
+[00:44:38] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[00:44:38] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode spectator
+[00:44:40] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
+[00:44:46] [Server thread/INFO]: Sofx0Loder issued server command: /tp Matthorox Sofx0Loder
+[00:44:47] [Server thread/INFO]: cambursote lost connection: Disconnected
+[00:44:47] [Server thread/INFO]: [voicechat] Disconnecting client cambursote
+[00:44:47] [Server thread/INFO]: cambursote left the game
+[00:44:54] [Server thread/INFO]: Sofx0Loder issued server command: /unjail silversote
+[00:45:14] [Server thread/INFO]: Sofx0Loder issued server command: /xp set Matthorox 30l
+[00:45:22] [Server thread/INFO]: Sofx0Loder issued server command: /enchant efficiency 3
+[00:45:55] [User Authenticator #1/INFO]: UUID of player cambursote is f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[00:45:56] [Server thread/INFO]: cambursote joined the game
+[00:45:56] [Server thread/INFO]: cambursote[/127.86.249.102:49823] logged in with entity id 2836 at ([city]-1617.300000011921, 81.0, 221.69999998807907)
+[00:45:56] [Server thread/INFO]: [voicechat] Received secret request of cambursote (18)
+[00:45:56] [Server thread/INFO]: [voicechat] Sent secret to cambursote
+[00:45:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[00:45:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f9082e2c-b2b1-32dd-b025-e369d4ddac8e
+[00:45:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cambursote (f9082e2c-b2b1-32dd-b025-e369d4ddac8e) successfully connected to voice chat
+[00:46:03] [Server thread/INFO]: Sofx0Loder issued server command: /setjail jeje2
+[00:46:07] [Server thread/INFO]: Sofx0Loder issued server command: /unjail cambursote
+[00:46:09] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode spectator
+[00:46:11] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
+[00:46:20] [Server thread/INFO]: Sofx0Loder issued server command: /jail silversote jeje2
+[00:46:20] [Server thread/INFO]: [Essentials] Player silversote jailed by Sofx0Loder.
+[00:46:49] [Server thread/INFO]: Sofx0Loder issued server command: /unjail si
+[00:47:06] [Server thread/INFO]: Sofx0Loder issued server command: /enchant efficiency 4
+[00:47:09] [Server thread/INFO]: Sofx0Loder issued server command: /enchant efficiency 4
+[00:47:26] [Server thread/INFO]: Sofx0Loder issued server command: /mask
+[00:47:33] [Server thread/INFO]: Sofx0Loder issued server command: /jails
+[00:47:40] [Server thread/INFO]: Sofx0Loder issued server command: /jail
+[00:49:12] [Server thread/INFO]: Sofx0Loder issued server command: /jail cambursote
+[00:49:17] [Server thread/INFO]: Sofx0Loder issued server command: /jail cambursote jej
+[00:49:19] [Server thread/INFO]: Sofx0Loder issued server command: /jail cambursote jeje
+[00:49:19] [Server thread/INFO]: [Essentials] Player cambursote jailed by Sofx0Loder.
+[00:49:43] [Server thread/INFO]: Sofx0Loder issued server command: /unjail cambursote
+[00:49:55] [Server thread/INFO]: Sofx0Loder issued server command: /jail cambursote jeje 1d
+[00:49:55] [Server thread/INFO]: [Essentials] Player cambursote jailed for 1 day by Sofx0Loder.
+[00:49:59] [Server thread/INFO]: Sofx0Loder issued server command: /unjail cambursote
+[00:50:05] [Server thread/INFO]: Sofx0Loder issued server command: /jail cambursote jeje 1mo
+[00:50:05] [Server thread/INFO]: [Essentials] Player cambursote jailed for 1 month by Sofx0Loder.
+[00:50:16] [Server thread/INFO]: Sofx0Loder issued server command: /jail silversote jeje2 1mo
+[00:50:16] [Server thread/INFO]: [Essentials] Player silversote jailed for 1 month by Sofx0Loder.
+[00:50:29] [Server thread/INFO]: Sofx0Loder issued server command: /jail silversote jeje2 1m
+[00:50:29] [Server thread/INFO]: [Essentials] Playersilversote jail's time extended to 1 minute by Sofx0Loder.
+[00:51:06] [Server thread/INFO]: Sofx0Loder issued server command: /unjail cambursote
+[00:51:10] [Server thread/INFO]: Sofx0Loder issued server command: /unjail silversote
+[00:51:18] [Server thread/INFO]: silversote was slain by Zombified Piglin
+[00:51:19] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote
+[00:51:29] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[00:51:57] [Server thread/INFO]: Sofx0Loder issued server command: /xp set silversote 25l
+[00:52:20] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[00:52:24] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[00:52:40] [Server thread/INFO]: Sofx0Loder has made the advancement [Ol' Betsy]
+[00:53:20] [Server thread/INFO]: Matthorox lost connection: Disconnected
+[00:53:20] [Server thread/INFO]: [voicechat] Disconnecting client Matthorox
+[00:53:20] [Server thread/INFO]: Matthorox left the game
+[00:53:39] [Server thread/INFO]: silversote was slain by Zombified Piglin
+[00:53:44] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[00:53:49] [Server thread/INFO]: silversote was slain by Zombified Piglin
+[00:53:53] [Server thread/INFO]: Sofx0Loder issued server command: /tp silversote Sofx0Loder
+[00:53:53] [Server thread/INFO]: silversote lost connection: Disconnected
+[00:53:53] [Server thread/INFO]: [voicechat] Disconnecting client silversote
+[00:53:53] [Server thread/INFO]: silversote left the game
+[00:57:05] [Server thread/INFO]: Sofx0Loder issued server command: /give Sofx0Loder experience_bottle 250
+[00:57:12] [Server thread/INFO]: Sofx0Loder issued server command: /give Sofx0Loder experience_bottle 230
+[00:59:17] [Server thread/INFO]: Sofx0Loder issued server command: /tp cambursote
+[01:00:54] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode spectator
+[01:01:03] [Server thread/INFO]: Sofx0Loder issued server command: /gamemode creative
+[01:01:08] [Server thread/INFO]: Sofx0Loder lost connection: Disconnected
+[01:01:08] [Server thread/INFO]: [voicechat] Disconnecting client Sofx0Loder
+[01:01:08] [Server thread/INFO]: Sofx0Loder left the game
+[01:02:39] [Server thread/INFO]: Stopping the server
+[01:02:39] [Server thread/INFO]: Stopping server
+[01:02:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
+[01:02:39] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[01:02:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.16+cbf4bd5
+[01:02:39] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:02:39] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.35
+[01:02:39] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.10
+[01:02:39] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:02:39] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:02:39] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:02:39] [Server thread/INFO]: Saving players
+[01:02:39] [Server thread/INFO]: cambursote lost connection: Server closed
+[01:02:39] [Server thread/INFO]: cambursote left the game
+[01:02:39] [Server thread/INFO]: Saving worlds
+[01:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city]'/minecraft:overworld
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Saved 328 block chunks, 463 entity chunks, 1 poi chunks in world 'city' in 0.46s
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city'
+[01:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city_nether]'/minecraft:the_nether
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city_nether'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city_nether'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city_nether'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Saved 25 block chunks, 72 entity chunks, 0 poi chunks in world 'city_nether' in 0.05s
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city_nether'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city_nether'
+[01:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[city_the_end]'/minecraft:the_end
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'city_the_end'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'city_the_end'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'city_the_end'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'city_the_end' in 0.00s
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'city_the_end'
+[01:02:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'city_the_end'
+[01:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (city): All chunks are saved
+[01:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:02:39] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[01:02:39] [Server thread/INFO]: All I/O tasks to complete
+[01:02:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:02:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

@@ -2,7 +2,7 @@ teleportenabled: true
 teleportauto: false
 godmode: false
 muted: false
-jailed: false
+jailed: true
 ip-address: 127.172.165.197
 afk: false
 socialspy: false
@@ -16,7 +16,24 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1754956692843
+  logout: 1754960000759
+  login: 1754958863257
 money: '0'
 last-account-name: Matthorox
+lastlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -34.73259910387703
+  y: 85.79673560066871
+  z: 8.487473688485009
+  yaw: -18.036529541015625
+  pitch: 32.1147575378418
+logoutlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -1616.7000601690988
+  y: 71.0
+  z: 228.83960356973796
+  yaw: 48.57733154296875
+  pitch: 10.40129566192627
+jail: jeje

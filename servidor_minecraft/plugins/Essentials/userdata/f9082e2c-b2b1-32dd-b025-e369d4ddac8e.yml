@@ -16,7 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1754955030042
+  logout: 1754960559063
+  login: 1754959556271
 money: '0'
 last-account-name: cambursote
+logoutlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -1622.1047525796578
+  y: 54.0
+  z: 234.37957288696867
+  yaw: 33.027099609375
+  pitch: 22.95001220703125
+lastlocation:
+  world: 9289ebd8-e43f-4769-b3fb-39f62d1b27b8
+  world-name: city
+  x: -1617.5495564153464
+  y: 81.0
+  z: 221.51954778388443
+  yaw: 98.64939880371094
+  pitch: 51.899993896484375
